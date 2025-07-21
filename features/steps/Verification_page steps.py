@@ -27,3 +27,5 @@ def verify_out_of_stock_filter(context):
         assert status, 'Product status not shown'
         print(status)
         product.find_element(*PRODUCT_IMG)
+
+
