@@ -1522,3 +1522,1083 @@ Started scenario: User can filter by sale status Out of Stocks
 2025-07-18 22:31:36,987 - support.logger - INFO - Started step: , <then "Filter by sales status of Out of stock">
 2025-07-18 22:31:36,987 - support.logger - INFO - Searching for ('xpath', "//*[@wized='saleStatusFilter']")
 2025-07-18 22:31:37,046 - support.logger - INFO - Started step: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-20 00:31:39,613 - support.logger - INFO - 
+Started scenario: User can filter by sale status Out of Stocks
+2025-07-20 00:33:37,791 - support.logger - INFO - 
+Started scenario: User can filter by sale status Out of Stocks
+2025-07-20 00:39:19,634 - support.logger - INFO - 
+Started scenario: User can filter by sale status Out of Stocks
+2025-07-20 00:39:21,066 - support.logger - INFO - Started step: , <given "Open the main page">
+2025-07-20 00:39:21,067 - support.logger - INFO - Opening URL: https://soft.reelly.io
+2025-07-20 00:39:22,881 - support.logger - INFO - Started step: , <when "Log in to the page">
+2025-07-20 00:39:23,205 - support.logger - INFO - Started step: , <when "Enter email luca.lorusso@icloud.com">
+2025-07-20 00:39:23,205 - support.logger - INFO - Entering "luca.lorusso@icloud.com" in ('css selector', "[placeholder='Email']")
+2025-07-20 00:39:23,843 - support.logger - INFO - Started step: , <when "Enter your FistQAtesting">
+2025-07-20 00:39:23,843 - support.logger - INFO - Entering "FistQAtesting" in ('css selector', "[placeholder='Password']")
+2025-07-20 00:39:23,865 - support.logger - INFO - Started step: , <when "Click continue button">
+2025-07-20 00:39:23,865 - support.logger - INFO - CLicking on ('css selector', "[wized='loginButton']")
+2025-07-20 00:39:23,990 - support.logger - INFO - Started step: , <when "Click on off plan at the left side menu">
+2025-07-20 00:39:29,257 - support.logger - INFO - Waiting for element click on ('css selector', '.pb-5.text-sm.font-semibold.transition-all.border-b-2.border-transparent.whitespace-nowrap.text-muted-foreground')
+2025-07-20 00:39:32,883 - support.logger - INFO - Waiting for element click on ('id', 'w-node-bf44e609-bef9-12ba-bb17-9e5d5d1e09d0-7f66df43')
+2025-07-20 00:39:35,557 - support.logger - INFO - Started step: , <then "Verify the right page opens">
+2025-07-20 00:39:35,567 - support.logger - INFO - Started step: , <then "Filter by sales status of Out of stock">
+2025-07-20 00:39:35,568 - support.logger - INFO - Searching for ('xpath', "//*[@wized='saleStatusFilter']")
+2025-07-20 00:39:35,615 - support.logger - INFO - Started step: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-20 00:40:32,432 - support.logger - INFO - 
+Started scenario: User can filter by sale status Out of Stocks
+2025-07-20 00:51:02,320 - support.logger - INFO - 
+Started scenario: User can filter by sale status Out of Stocks
+2025-07-20 00:52:21,499 - support.logger - INFO - 
+Started scenario: User can filter by sale status Out of Stocks
+2025-07-20 00:52:39,019 - support.logger - INFO - Started step: , <given "Open the main page">
+2025-07-20 00:52:39,020 - support.logger - INFO - Opening URL: https://soft.reelly.io
+2025-07-20 00:52:41,745 - support.logger - INFO - Started step: , <when "Log in to the page">
+2025-07-20 00:52:43,577 - support.logger - INFO - Started step: , <when "Enter email luca.lorusso@icloud.com">
+2025-07-20 00:52:43,578 - support.logger - INFO - Entering "luca.lorusso@icloud.com" in ('css selector', "[placeholder='Email']")
+2025-07-20 00:52:44,992 - support.logger - INFO - Started step: , <when "Enter your FistQAtesting">
+2025-07-20 00:52:44,992 - support.logger - INFO - Entering "FistQAtesting" in ('css selector', "[placeholder='Password']")
+2025-07-20 00:52:45,298 - support.logger - INFO - Started step: , <when "Click continue button">
+2025-07-20 00:52:45,298 - support.logger - INFO - CLicking on ('css selector', "[wized='loginButton']")
+2025-07-20 00:52:45,869 - support.logger - INFO - Started step: , <when "Click on off plan at the left side menu">
+2025-07-20 00:52:52,111 - support.logger - INFO - Waiting for element click on ('css selector', '.pb-5.text-sm.font-semibold.transition-all.border-b-2.border-transparent.whitespace-nowrap.text-muted-foreground')
+2025-07-20 00:53:00,181 - support.logger - INFO - Waiting for element click on ('id', 'w-node-bf44e609-bef9-12ba-bb17-9e5d5d1e09d0-7f66df43')
+2025-07-20 00:53:09,865 - support.logger - INFO - Started step: , <then "Verify the right page opens">
+2025-07-20 00:53:09,974 - support.logger - INFO - Started step: , <then "Filter by sales status of Out of stock">
+2025-07-20 00:53:09,974 - support.logger - INFO - Searching for ('xpath', "//*[@wized='saleStatusFilter']")
+2025-07-20 00:53:11,000 - support.logger - INFO - Started step: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-20 00:59:14,933 - support.logger - INFO - 
+Started scenario: User can filter by sale status Out of Stocks
+2025-07-20 00:59:22,484 - support.logger - INFO - Started step: , <given "Open the main page">
+2025-07-20 00:59:22,485 - support.logger - INFO - Opening URL: https://soft.reelly.io
+2025-07-20 00:59:25,540 - support.logger - INFO - Started step: , <when "Log in to the page">
+2025-07-20 00:59:27,437 - support.logger - INFO - Started step: , <when "Enter email luca.lorusso@icloud.com">
+2025-07-20 00:59:27,437 - support.logger - INFO - Entering "luca.lorusso@icloud.com" in ('css selector', "[placeholder='Email']")
+2025-07-20 00:59:29,222 - support.logger - INFO - Started step: , <when "Enter your FistQAtesting">
+2025-07-20 00:59:29,222 - support.logger - INFO - Entering "FistQAtesting" in ('css selector', "[placeholder='Password']")
+2025-07-20 00:59:29,695 - support.logger - INFO - Started step: , <when "Click continue button">
+2025-07-20 00:59:29,695 - support.logger - INFO - CLicking on ('css selector', "[wized='loginButton']")
+2025-07-20 00:59:31,439 - support.logger - INFO - Started step: , <when "Click on off plan at the left side menu">
+2025-07-20 00:59:37,430 - support.logger - INFO - Waiting for element click on ('css selector', '.pb-5.text-sm.font-semibold.transition-all.border-b-2.border-transparent.whitespace-nowrap.text-muted-foreground')
+2025-07-20 00:59:50,717 - support.logger - INFO - Waiting for element click on ('id', 'w-node-bf44e609-bef9-12ba-bb17-9e5d5d1e09d0-7f66df43')
+2025-07-20 01:00:02,720 - support.logger - INFO - Started step: , <then "Verify the right page opens">
+2025-07-20 01:00:02,866 - support.logger - INFO - Started step: , <then "Filter by sales status of Out of stock">
+2025-07-20 01:00:02,867 - support.logger - INFO - Searching for ('xpath', "//*[@wized='saleStatusFilter']")
+2025-07-20 01:00:04,189 - support.logger - INFO - Started step: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-20 21:44:04,074 - support.logger - INFO - 
+Started scenario: User can filter by sale status Out of Stocks
+2025-07-20 21:44:05,399 - support.logger - INFO - Started step: , <given "Open the main page">
+2025-07-20 21:44:05,399 - support.logger - INFO - Opening URL: https://soft.reelly.io
+2025-07-20 21:44:06,698 - support.logger - INFO - Started step: , <when "Log in to the page">
+2025-07-20 21:44:07,283 - support.logger - INFO - Started step: , <when "Enter email luca.lorusso@icloud.com">
+2025-07-20 21:44:07,283 - support.logger - INFO - Entering "luca.lorusso@icloud.com" in ('css selector', "[placeholder='Email']")
+2025-07-20 21:44:07,864 - support.logger - INFO - Started step: , <when "Enter your FistQAtesting">
+2025-07-20 21:44:07,864 - support.logger - INFO - Entering "FistQAtesting" in ('css selector', "[placeholder='Password']")
+2025-07-20 21:44:07,884 - support.logger - INFO - Started step: , <when "Click continue button">
+2025-07-20 21:44:07,884 - support.logger - INFO - CLicking on ('css selector', "[wized='loginButton']")
+2025-07-20 21:44:07,985 - support.logger - INFO - Started step: , <when "Click on off plan at the left side menu">
+2025-07-20 21:44:12,623 - support.logger - INFO - Waiting for element click on ('css selector', '.pb-5.text-sm.font-semibold.transition-all.border-b-2.border-transparent.whitespace-nowrap.text-muted-foreground')
+2025-07-20 21:44:16,327 - support.logger - INFO - Waiting for element click on ('id', 'w-node-bf44e609-bef9-12ba-bb17-9e5d5d1e09d0-7f66df43')
+2025-07-20 21:44:19,110 - support.logger - INFO - Started step: , <then "Verify the right page opens">
+2025-07-20 21:44:19,118 - support.logger - INFO - Started step: , <then "Filter by sales status of Out of stock">
+2025-07-20 21:44:19,118 - support.logger - INFO - Searching for ('xpath', "//*[@wized='saleStatusFilter']")
+2025-07-20 21:44:19,164 - support.logger - INFO - Started step: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-20 21:52:10,331 - support.logger - INFO - 
+Started scenario: User can filter by sale status Out of Stocks
+2025-07-20 21:52:11,730 - support.logger - INFO - Started step: , <given "Open the main page">
+2025-07-20 21:52:11,730 - support.logger - INFO - Opening URL: https://soft.reelly.io
+2025-07-20 21:52:13,331 - support.logger - INFO - Started step: , <when "Log in to the page">
+2025-07-20 21:52:14,109 - support.logger - INFO - Started step: , <when "Enter email luca.lorusso@icloud.com">
+2025-07-20 21:52:14,109 - support.logger - INFO - Entering "luca.lorusso@icloud.com" in ('css selector', "[placeholder='Email']")
+2025-07-20 21:52:14,727 - support.logger - INFO - Started step: , <when "Enter your FistQAtesting">
+2025-07-20 21:52:14,728 - support.logger - INFO - Entering "FistQAtesting" in ('css selector', "[placeholder='Password']")
+2025-07-20 21:52:14,748 - support.logger - INFO - Started step: , <when "Click continue button">
+2025-07-20 21:52:14,748 - support.logger - INFO - CLicking on ('css selector', "[wized='loginButton']")
+2025-07-20 21:52:14,876 - support.logger - INFO - Started step: , <when "Click on off plan at the left side menu">
+2025-07-20 21:52:20,068 - support.logger - INFO - Waiting for element click on ('css selector', '.pb-5.text-sm.font-semibold.transition-all.border-b-2.border-transparent.whitespace-nowrap.text-muted-foreground')
+2025-07-20 21:52:23,749 - support.logger - INFO - Waiting for element click on ('id', 'w-node-bf44e609-bef9-12ba-bb17-9e5d5d1e09d0-7f66df43')
+2025-07-20 21:52:26,927 - support.logger - INFO - Started step: , <then "Verify the right page opens">
+2025-07-20 21:52:26,935 - support.logger - INFO - Started step: , <then "Filter by sales status of Out of stock">
+2025-07-20 21:52:26,936 - support.logger - INFO - Searching for ('xpath', "//*[@wized='saleStatusFilter']")
+2025-07-20 21:52:26,979 - support.logger - INFO - Started step: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-20 21:56:01,096 - support.logger - INFO - 
+Started scenario: User can filter by sale status Out of Stocks
+2025-07-20 21:56:02,540 - support.logger - INFO - Started step: , <given "Open the main page">
+2025-07-20 21:56:02,540 - support.logger - INFO - Opening URL: https://soft.reelly.io
+2025-07-20 21:56:04,502 - support.logger - INFO - Started step: , <when "Log in to the page">
+2025-07-20 21:56:05,047 - support.logger - INFO - Started step: , <when "Enter email luca.lorusso@icloud.com">
+2025-07-20 21:56:05,047 - support.logger - INFO - Entering "luca.lorusso@icloud.com" in ('css selector', "[placeholder='Email']")
+2025-07-20 21:56:05,906 - support.logger - INFO - Started step: , <when "Enter your FistQAtesting">
+2025-07-20 21:56:05,906 - support.logger - INFO - Entering "FistQAtesting" in ('css selector', "[placeholder='Password']")
+2025-07-20 21:56:05,927 - support.logger - INFO - Started step: , <when "Click continue button">
+2025-07-20 21:56:05,927 - support.logger - INFO - CLicking on ('css selector', "[wized='loginButton']")
+2025-07-20 21:56:06,045 - support.logger - INFO - Started step: , <when "Click on off plan at the left side menu">
+2025-07-20 21:56:10,673 - support.logger - INFO - Waiting for element click on ('css selector', '.pb-5.text-sm.font-semibold.transition-all.border-b-2.border-transparent.whitespace-nowrap.text-muted-foreground')
+2025-07-20 21:56:14,717 - support.logger - INFO - Waiting for element click on ('id', 'w-node-bf44e609-bef9-12ba-bb17-9e5d5d1e09d0-7f66df43')
+2025-07-20 21:56:17,359 - support.logger - INFO - Started step: , <then "Verify the right page opens">
+2025-07-20 21:56:17,368 - support.logger - INFO - Started step: , <then "Filter by sales status of Out of stock">
+2025-07-20 21:56:17,368 - support.logger - INFO - Searching for ('xpath', "//*[@wized='saleStatusFilter']")
+2025-07-20 21:56:17,412 - support.logger - INFO - Started step: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-20 21:56:17,414 - support.logger - INFO - Started failed: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-20 22:45:52,020 - support.logger - INFO - 
+Started scenario: User can filter by sale status Out of Stocks
+2025-07-20 22:45:53,439 - support.logger - INFO - Started step: , <given "Open the main page">
+2025-07-20 22:45:53,440 - support.logger - INFO - Opening URL: https://soft.reelly.io
+2025-07-20 22:45:55,309 - support.logger - INFO - Started step: , <when "Log in to the page">
+2025-07-20 22:45:55,919 - support.logger - INFO - Started step: , <when "Enter email luca.lorusso@icloud.com">
+2025-07-20 22:45:55,919 - support.logger - INFO - Entering "luca.lorusso@icloud.com" in ('css selector', "[placeholder='Email']")
+2025-07-20 22:45:56,560 - support.logger - INFO - Started step: , <when "Enter your FistQAtesting">
+2025-07-20 22:45:56,560 - support.logger - INFO - Entering "FistQAtesting" in ('css selector', "[placeholder='Password']")
+2025-07-20 22:45:56,583 - support.logger - INFO - Started step: , <when "Click continue button">
+2025-07-20 22:45:56,584 - support.logger - INFO - CLicking on ('css selector', "[wized='loginButton']")
+2025-07-20 22:45:56,694 - support.logger - INFO - Started step: , <when "Click on off plan at the left side menu">
+2025-07-20 22:46:02,126 - support.logger - INFO - Waiting for element click on ('css selector', '.pb-5.text-sm.font-semibold.transition-all.border-b-2.border-transparent.whitespace-nowrap.text-muted-foreground')
+2025-07-20 22:46:05,859 - support.logger - INFO - Waiting for element click on ('id', 'w-node-bf44e609-bef9-12ba-bb17-9e5d5d1e09d0-7f66df43')
+2025-07-20 22:46:08,449 - support.logger - INFO - Started step: , <then "Verify the right page opens">
+2025-07-20 22:46:08,457 - support.logger - INFO - Started step: , <then "Filter by sales status of Out of stock">
+2025-07-20 22:46:08,457 - support.logger - INFO - Searching for ('xpath', "//*[@wized='saleStatusFilter']")
+2025-07-20 22:46:08,501 - support.logger - INFO - Started step: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-20 22:46:08,507 - support.logger - INFO - Started failed: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-20 22:55:46,610 - support.logger - INFO - 
+Started scenario: User can filter by sale status Out of Stocks
+2025-07-20 22:55:48,069 - support.logger - INFO - Started step: , <given "Open the main page">
+2025-07-20 22:55:48,069 - support.logger - INFO - Opening URL: https://soft.reelly.io
+2025-07-20 22:55:49,640 - support.logger - INFO - Started step: , <when "Log in to the page">
+2025-07-20 22:55:50,213 - support.logger - INFO - Started step: , <when "Enter email luca.lorusso@icloud.com">
+2025-07-20 22:55:50,213 - support.logger - INFO - Entering "luca.lorusso@icloud.com" in ('css selector', "[placeholder='Email']")
+2025-07-20 22:55:50,914 - support.logger - INFO - Started step: , <when "Enter your FistQAtesting">
+2025-07-20 22:55:50,914 - support.logger - INFO - Entering "FistQAtesting" in ('css selector', "[placeholder='Password']")
+2025-07-20 22:55:50,935 - support.logger - INFO - Started step: , <when "Click continue button">
+2025-07-20 22:55:50,935 - support.logger - INFO - CLicking on ('css selector', "[wized='loginButton']")
+2025-07-20 22:55:51,059 - support.logger - INFO - Started step: , <when "Click on off plan at the left side menu">
+2025-07-20 22:55:55,872 - support.logger - INFO - Waiting for element click on ('css selector', '.pb-5.text-sm.font-semibold.transition-all.border-b-2.border-transparent.whitespace-nowrap.text-muted-foreground')
+2025-07-20 22:55:59,605 - support.logger - INFO - Waiting for element click on ('id', 'w-node-bf44e609-bef9-12ba-bb17-9e5d5d1e09d0-7f66df43')
+2025-07-20 22:56:02,178 - support.logger - INFO - Started step: , <then "Verify the right page opens">
+2025-07-20 22:56:02,186 - support.logger - INFO - Started step: , <then "Filter by sales status of Out of stock">
+2025-07-20 22:56:02,186 - support.logger - INFO - Searching for ('xpath', "//*[@wized='saleStatusFilter']")
+2025-07-20 22:56:02,232 - support.logger - INFO - Started step: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-20 22:56:05,258 - support.logger - INFO - Started failed: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-20 22:56:55,518 - support.logger - INFO - 
+Started scenario: User can filter by sale status Out of Stocks
+2025-07-20 22:56:56,904 - support.logger - INFO - Started step: , <given "Open the main page">
+2025-07-20 22:56:56,904 - support.logger - INFO - Opening URL: https://soft.reelly.io
+2025-07-20 22:56:58,432 - support.logger - INFO - Started step: , <when "Log in to the page">
+2025-07-20 22:56:59,009 - support.logger - INFO - Started step: , <when "Enter email luca.lorusso@icloud.com">
+2025-07-20 22:56:59,010 - support.logger - INFO - Entering "luca.lorusso@icloud.com" in ('css selector', "[placeholder='Email']")
+2025-07-20 22:56:59,652 - support.logger - INFO - Started step: , <when "Enter your FistQAtesting">
+2025-07-20 22:56:59,652 - support.logger - INFO - Entering "FistQAtesting" in ('css selector', "[placeholder='Password']")
+2025-07-20 22:56:59,674 - support.logger - INFO - Started step: , <when "Click continue button">
+2025-07-20 22:56:59,674 - support.logger - INFO - CLicking on ('css selector', "[wized='loginButton']")
+2025-07-20 22:56:59,793 - support.logger - INFO - Started step: , <when "Click on off plan at the left side menu">
+2025-07-20 22:57:04,394 - support.logger - INFO - Waiting for element click on ('css selector', '.pb-5.text-sm.font-semibold.transition-all.border-b-2.border-transparent.whitespace-nowrap.text-muted-foreground')
+2025-07-20 22:57:08,047 - support.logger - INFO - Waiting for element click on ('id', 'w-node-bf44e609-bef9-12ba-bb17-9e5d5d1e09d0-7f66df43')
+2025-07-20 22:57:10,679 - support.logger - INFO - Started step: , <then "Verify the right page opens">
+2025-07-20 22:57:10,688 - support.logger - INFO - Started step: , <then "Filter by sales status of Out of stock">
+2025-07-20 22:57:10,688 - support.logger - INFO - Searching for ('xpath', "//*[@wized='saleStatusFilter']")
+2025-07-20 22:57:10,742 - support.logger - INFO - Started step: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-20 22:57:10,874 - support.logger - INFO - Started failed: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-20 23:14:49,844 - support.logger - INFO - 
+Started scenario: User can filter by sale status Out of Stocks
+2025-07-20 23:14:51,264 - support.logger - INFO - Started step: , <given "Open the main page">
+2025-07-20 23:14:51,264 - support.logger - INFO - Opening URL: https://soft.reelly.io
+2025-07-20 23:14:53,316 - support.logger - INFO - Started step: , <when "Log in to the page">
+2025-07-20 23:14:54,006 - support.logger - INFO - Started step: , <when "Enter email luca.lorusso@icloud.com">
+2025-07-20 23:14:54,007 - support.logger - INFO - Entering "luca.lorusso@icloud.com" in ('css selector', "[placeholder='Email']")
+2025-07-20 23:14:54,579 - support.logger - INFO - Started step: , <when "Enter your FistQAtesting">
+2025-07-20 23:14:54,579 - support.logger - INFO - Entering "FistQAtesting" in ('css selector', "[placeholder='Password']")
+2025-07-20 23:14:54,601 - support.logger - INFO - Started step: , <when "Click continue button">
+2025-07-20 23:14:54,601 - support.logger - INFO - CLicking on ('css selector', "[wized='loginButton']")
+2025-07-20 23:14:54,733 - support.logger - INFO - Started step: , <when "Click on off plan at the left side menu">
+2025-07-20 23:15:00,601 - support.logger - INFO - Waiting for element click on ('css selector', '.pb-5.text-sm.font-semibold.transition-all.border-b-2.border-transparent.whitespace-nowrap.text-muted-foreground')
+2025-07-20 23:15:04,370 - support.logger - INFO - Waiting for element click on ('id', 'w-node-bf44e609-bef9-12ba-bb17-9e5d5d1e09d0-7f66df43')
+2025-07-20 23:15:06,975 - support.logger - INFO - Started step: , <then "Verify the right page opens">
+2025-07-20 23:15:06,984 - support.logger - INFO - Started step: , <then "Filter by sales status of Out of stock">
+2025-07-20 23:15:06,984 - support.logger - INFO - Searching for ('xpath', "//*[@wized='saleStatusFilter']")
+2025-07-20 23:15:07,027 - support.logger - INFO - Started step: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-20 23:15:07,032 - support.logger - INFO - Started failed: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-20 23:21:30,210 - support.logger - INFO - 
+Started scenario: User can filter by sale status Out of Stocks
+2025-07-20 23:21:31,634 - support.logger - INFO - Started step: , <given "Open the main page">
+2025-07-20 23:21:31,634 - support.logger - INFO - Opening URL: https://soft.reelly.io
+2025-07-20 23:21:33,425 - support.logger - INFO - Started step: , <when "Log in to the page">
+2025-07-20 23:21:33,848 - support.logger - INFO - Started step: , <when "Enter email luca.lorusso@icloud.com">
+2025-07-20 23:21:33,848 - support.logger - INFO - Entering "luca.lorusso@icloud.com" in ('css selector', "[placeholder='Email']")
+2025-07-20 23:21:34,486 - support.logger - INFO - Started step: , <when "Enter your FistQAtesting">
+2025-07-20 23:21:34,487 - support.logger - INFO - Entering "FistQAtesting" in ('css selector', "[placeholder='Password']")
+2025-07-20 23:21:34,509 - support.logger - INFO - Started step: , <when "Click continue button">
+2025-07-20 23:21:34,509 - support.logger - INFO - CLicking on ('css selector', "[wized='loginButton']")
+2025-07-20 23:21:34,619 - support.logger - INFO - Started step: , <when "Click on off plan at the left side menu">
+2025-07-20 23:21:39,300 - support.logger - INFO - Waiting for element click on ('css selector', '.pb-5.text-sm.font-semibold.transition-all.border-b-2.border-transparent.whitespace-nowrap.text-muted-foreground')
+2025-07-20 23:21:43,216 - support.logger - INFO - Waiting for element click on ('id', 'w-node-bf44e609-bef9-12ba-bb17-9e5d5d1e09d0-7f66df43')
+2025-07-20 23:21:45,967 - support.logger - INFO - Started step: , <then "Verify the right page opens">
+2025-07-20 23:21:45,975 - support.logger - INFO - Started step: , <then "Filter by sales status of Out of stock">
+2025-07-20 23:21:45,975 - support.logger - INFO - Searching for ('xpath', "//*[@wized='saleStatusFilter']")
+2025-07-20 23:21:46,021 - support.logger - INFO - Started step: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-20 23:21:46,156 - support.logger - INFO - Started failed: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-20 23:22:05,221 - support.logger - INFO - 
+Started scenario: User can filter by sale status Out of Stocks
+2025-07-20 23:22:06,610 - support.logger - INFO - Started step: , <given "Open the main page">
+2025-07-20 23:22:06,610 - support.logger - INFO - Opening URL: https://soft.reelly.io
+2025-07-20 23:22:08,106 - support.logger - INFO - Started step: , <when "Log in to the page">
+2025-07-20 23:22:08,925 - support.logger - INFO - Started step: , <when "Enter email luca.lorusso@icloud.com">
+2025-07-20 23:22:08,926 - support.logger - INFO - Entering "luca.lorusso@icloud.com" in ('css selector', "[placeholder='Email']")
+2025-07-20 23:22:09,511 - support.logger - INFO - Started step: , <when "Enter your FistQAtesting">
+2025-07-20 23:22:09,511 - support.logger - INFO - Entering "FistQAtesting" in ('css selector', "[placeholder='Password']")
+2025-07-20 23:22:09,531 - support.logger - INFO - Started step: , <when "Click continue button">
+2025-07-20 23:22:09,531 - support.logger - INFO - CLicking on ('css selector', "[wized='loginButton']")
+2025-07-20 23:22:09,639 - support.logger - INFO - Started step: , <when "Click on off plan at the left side menu">
+2025-07-20 23:22:14,499 - support.logger - INFO - Waiting for element click on ('css selector', '.pb-5.text-sm.font-semibold.transition-all.border-b-2.border-transparent.whitespace-nowrap.text-muted-foreground')
+2025-07-20 23:22:18,468 - support.logger - INFO - Waiting for element click on ('id', 'w-node-bf44e609-bef9-12ba-bb17-9e5d5d1e09d0-7f66df43')
+2025-07-20 23:22:21,252 - support.logger - INFO - Started step: , <then "Verify the right page opens">
+2025-07-20 23:22:21,260 - support.logger - INFO - Started step: , <then "Filter by sales status of Out of stock">
+2025-07-20 23:22:21,261 - support.logger - INFO - Searching for ('xpath', "//*[@wized='saleStatusFilter']")
+2025-07-20 23:22:21,305 - support.logger - INFO - Started step: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-20 23:22:21,436 - support.logger - INFO - Started failed: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-20 23:23:39,881 - support.logger - INFO - 
+Started scenario: User can filter by sale status Out of Stocks
+2025-07-20 23:23:41,278 - support.logger - INFO - Started step: , <given "Open the main page">
+2025-07-20 23:23:41,278 - support.logger - INFO - Opening URL: https://soft.reelly.io
+2025-07-20 23:23:42,924 - support.logger - INFO - Started step: , <when "Log in to the page">
+2025-07-20 23:23:43,731 - support.logger - INFO - Started step: , <when "Enter email luca.lorusso@icloud.com">
+2025-07-20 23:23:43,731 - support.logger - INFO - Entering "luca.lorusso@icloud.com" in ('css selector', "[placeholder='Email']")
+2025-07-20 23:23:44,560 - support.logger - INFO - Started step: , <when "Enter your FistQAtesting">
+2025-07-20 23:23:44,560 - support.logger - INFO - Entering "FistQAtesting" in ('css selector', "[placeholder='Password']")
+2025-07-20 23:23:44,581 - support.logger - INFO - Started step: , <when "Click continue button">
+2025-07-20 23:23:44,581 - support.logger - INFO - CLicking on ('css selector', "[wized='loginButton']")
+2025-07-20 23:23:44,704 - support.logger - INFO - Started step: , <when "Click on off plan at the left side menu">
+2025-07-20 23:23:49,647 - support.logger - INFO - Waiting for element click on ('css selector', '.pb-5.text-sm.font-semibold.transition-all.border-b-2.border-transparent.whitespace-nowrap.text-muted-foreground')
+2025-07-20 23:23:53,539 - support.logger - INFO - Waiting for element click on ('id', 'w-node-bf44e609-bef9-12ba-bb17-9e5d5d1e09d0-7f66df43')
+2025-07-20 23:23:56,787 - support.logger - INFO - Started step: , <then "Verify the right page opens">
+2025-07-20 23:23:56,795 - support.logger - INFO - Started step: , <then "Filter by sales status of Out of stock">
+2025-07-20 23:23:56,795 - support.logger - INFO - Searching for ('xpath', "//*[@wized='saleStatusFilter']")
+2025-07-20 23:23:56,840 - support.logger - INFO - Started step: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-20 23:23:56,964 - support.logger - INFO - Started failed: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-20 23:26:40,195 - support.logger - INFO - 
+Started scenario: User can filter by sale status Out of Stocks
+2025-07-20 23:26:41,576 - support.logger - INFO - Started step: , <given "Open the main page">
+2025-07-20 23:26:41,576 - support.logger - INFO - Opening URL: https://soft.reelly.io
+2025-07-20 23:26:43,371 - support.logger - INFO - Started step: , <when "Log in to the page">
+2025-07-20 23:26:43,925 - support.logger - INFO - Started step: , <when "Enter email luca.lorusso@icloud.com">
+2025-07-20 23:26:43,925 - support.logger - INFO - Entering "luca.lorusso@icloud.com" in ('css selector', "[placeholder='Email']")
+2025-07-20 23:26:44,758 - support.logger - INFO - Started step: , <when "Enter your FistQAtesting">
+2025-07-20 23:26:44,758 - support.logger - INFO - Entering "FistQAtesting" in ('css selector', "[placeholder='Password']")
+2025-07-20 23:26:44,779 - support.logger - INFO - Started step: , <when "Click continue button">
+2025-07-20 23:26:44,779 - support.logger - INFO - CLicking on ('css selector', "[wized='loginButton']")
+2025-07-20 23:26:44,899 - support.logger - INFO - Started step: , <when "Click on off plan at the left side menu">
+2025-07-20 23:26:49,950 - support.logger - INFO - Waiting for element click on ('css selector', '.pb-5.text-sm.font-semibold.transition-all.border-b-2.border-transparent.whitespace-nowrap.text-muted-foreground')
+2025-07-20 23:26:54,002 - support.logger - INFO - Waiting for element click on ('id', 'w-node-bf44e609-bef9-12ba-bb17-9e5d5d1e09d0-7f66df43')
+2025-07-20 23:26:56,842 - support.logger - INFO - Started step: , <then "Verify the right page opens">
+2025-07-20 23:26:56,850 - support.logger - INFO - Started step: , <then "Filter by sales status of Out of stock">
+2025-07-20 23:26:56,850 - support.logger - INFO - Searching for ('xpath', "//*[@wized='saleStatusFilter']")
+2025-07-20 23:26:56,894 - support.logger - INFO - Started step: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-20 23:26:56,895 - support.logger - INFO - Started failed: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-20 23:34:49,527 - support.logger - INFO - 
+Started scenario: User can filter by sale status Out of Stocks
+2025-07-20 23:34:50,901 - support.logger - INFO - Started step: , <given "Open the main page">
+2025-07-20 23:34:50,901 - support.logger - INFO - Opening URL: https://soft.reelly.io
+2025-07-20 23:34:52,570 - support.logger - INFO - Started step: , <when "Log in to the page">
+2025-07-20 23:34:53,381 - support.logger - INFO - Started step: , <when "Enter email luca.lorusso@icloud.com">
+2025-07-20 23:34:53,381 - support.logger - INFO - Entering "luca.lorusso@icloud.com" in ('css selector', "[placeholder='Email']")
+2025-07-20 23:34:54,065 - support.logger - INFO - Started step: , <when "Enter your FistQAtesting">
+2025-07-20 23:34:54,065 - support.logger - INFO - Entering "FistQAtesting" in ('css selector', "[placeholder='Password']")
+2025-07-20 23:34:54,088 - support.logger - INFO - Started step: , <when "Click continue button">
+2025-07-20 23:34:54,088 - support.logger - INFO - CLicking on ('css selector', "[wized='loginButton']")
+2025-07-20 23:34:54,201 - support.logger - INFO - Started step: , <when "Click on off plan at the left side menu">
+2025-07-20 23:34:58,656 - support.logger - INFO - Waiting for element click on ('css selector', '.pb-5.text-sm.font-semibold.transition-all.border-b-2.border-transparent.whitespace-nowrap.text-muted-foreground')
+2025-07-20 23:35:02,483 - support.logger - INFO - Waiting for element click on ('id', 'w-node-bf44e609-bef9-12ba-bb17-9e5d5d1e09d0-7f66df43')
+2025-07-20 23:35:05,252 - support.logger - INFO - Started step: , <then "Verify the right page opens">
+2025-07-20 23:35:05,260 - support.logger - INFO - Started step: , <then "Filter by sales status of Out of stock">
+2025-07-20 23:35:05,262 - support.logger - INFO - Started failed: , <then "Filter by sales status of Out of stock">
+2025-07-20 23:35:47,660 - support.logger - INFO - 
+Started scenario: User can filter by sale status Out of Stocks
+2025-07-20 23:35:49,052 - support.logger - INFO - Started step: , <given "Open the main page">
+2025-07-20 23:35:49,052 - support.logger - INFO - Opening URL: https://soft.reelly.io
+2025-07-20 23:35:50,721 - support.logger - INFO - Started step: , <when "Log in to the page">
+2025-07-20 23:35:51,277 - support.logger - INFO - Started step: , <when "Enter email luca.lorusso@icloud.com">
+2025-07-20 23:35:51,277 - support.logger - INFO - Entering "luca.lorusso@icloud.com" in ('css selector', "[placeholder='Email']")
+2025-07-20 23:35:51,883 - support.logger - INFO - Started step: , <when "Enter your FistQAtesting">
+2025-07-20 23:35:51,883 - support.logger - INFO - Entering "FistQAtesting" in ('css selector', "[placeholder='Password']")
+2025-07-20 23:35:51,904 - support.logger - INFO - Started step: , <when "Click continue button">
+2025-07-20 23:35:51,904 - support.logger - INFO - CLicking on ('css selector', "[wized='loginButton']")
+2025-07-20 23:35:52,028 - support.logger - INFO - Started step: , <when "Click on off plan at the left side menu">
+2025-07-20 23:35:56,488 - support.logger - INFO - Waiting for element click on ('css selector', '.pb-5.text-sm.font-semibold.transition-all.border-b-2.border-transparent.whitespace-nowrap.text-muted-foreground')
+2025-07-20 23:36:00,193 - support.logger - INFO - Waiting for element click on ('id', 'w-node-bf44e609-bef9-12ba-bb17-9e5d5d1e09d0-7f66df43')
+2025-07-20 23:36:03,798 - support.logger - INFO - Started step: , <then "Verify the right page opens">
+2025-07-20 23:36:03,807 - support.logger - INFO - Started step: , <then "Filter by sales status of Out of stock">
+2025-07-20 23:36:03,807 - support.logger - INFO - Searching for ('xpath', "//*[@wized='saleStatusFilter']")
+2025-07-20 23:36:03,854 - support.logger - INFO - Started step: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-20 23:36:03,981 - support.logger - INFO - Started failed: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-20 23:39:49,243 - support.logger - INFO - 
+Started scenario: User can filter by sale status Out of Stocks
+2025-07-20 23:39:50,644 - support.logger - INFO - Started step: , <given "Open the main page">
+2025-07-20 23:39:50,645 - support.logger - INFO - Opening URL: https://soft.reelly.io
+2025-07-20 23:39:52,343 - support.logger - INFO - Started step: , <when "Log in to the page">
+2025-07-20 23:39:52,920 - support.logger - INFO - Started step: , <when "Enter email luca.lorusso@icloud.com">
+2025-07-20 23:39:52,920 - support.logger - INFO - Entering "luca.lorusso@icloud.com" in ('css selector', "[placeholder='Email']")
+2025-07-20 23:39:53,507 - support.logger - INFO - Started step: , <when "Enter your FistQAtesting">
+2025-07-20 23:39:53,507 - support.logger - INFO - Entering "FistQAtesting" in ('css selector', "[placeholder='Password']")
+2025-07-20 23:39:53,529 - support.logger - INFO - Started step: , <when "Click continue button">
+2025-07-20 23:39:53,529 - support.logger - INFO - CLicking on ('css selector', "[wized='loginButton']")
+2025-07-20 23:39:53,665 - support.logger - INFO - Started step: , <when "Click on off plan at the left side menu">
+2025-07-20 23:39:58,396 - support.logger - INFO - Waiting for element click on ('css selector', '.pb-5.text-sm.font-semibold.transition-all.border-b-2.border-transparent.whitespace-nowrap.text-muted-foreground')
+2025-07-20 23:40:02,098 - support.logger - INFO - Waiting for element click on ('id', 'w-node-bf44e609-bef9-12ba-bb17-9e5d5d1e09d0-7f66df43')
+2025-07-20 23:40:05,015 - support.logger - INFO - Started step: , <then "Verify the right page opens">
+2025-07-20 23:40:05,024 - support.logger - INFO - Started step: , <then "Filter by sales status of Out of stock">
+2025-07-20 23:40:05,024 - support.logger - INFO - Searching for ('xpath', "//*[@wized='saleStatusFilter']")
+2025-07-20 23:40:05,072 - support.logger - INFO - Started step: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-20 23:40:05,076 - support.logger - INFO - Started failed: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-20 23:40:25,415 - support.logger - INFO - 
+Started scenario: User can filter by sale status Out of Stocks
+2025-07-20 23:40:26,757 - support.logger - INFO - Started step: , <given "Open the main page">
+2025-07-20 23:40:26,758 - support.logger - INFO - Opening URL: https://soft.reelly.io
+2025-07-20 23:40:28,463 - support.logger - INFO - Started step: , <when "Log in to the page">
+2025-07-20 23:40:29,276 - support.logger - INFO - Started step: , <when "Enter email luca.lorusso@icloud.com">
+2025-07-20 23:40:29,276 - support.logger - INFO - Entering "luca.lorusso@icloud.com" in ('css selector', "[placeholder='Email']")
+2025-07-20 23:40:29,929 - support.logger - INFO - Started step: , <when "Enter your FistQAtesting">
+2025-07-20 23:40:29,929 - support.logger - INFO - Entering "FistQAtesting" in ('css selector', "[placeholder='Password']")
+2025-07-20 23:40:29,949 - support.logger - INFO - Started step: , <when "Click continue button">
+2025-07-20 23:40:29,950 - support.logger - INFO - CLicking on ('css selector', "[wized='loginButton']")
+2025-07-20 23:40:30,076 - support.logger - INFO - Started step: , <when "Click on off plan at the left side menu">
+2025-07-20 23:40:34,526 - support.logger - INFO - Waiting for element click on ('css selector', '.pb-5.text-sm.font-semibold.transition-all.border-b-2.border-transparent.whitespace-nowrap.text-muted-foreground')
+2025-07-20 23:40:38,235 - support.logger - INFO - Waiting for element click on ('id', 'w-node-bf44e609-bef9-12ba-bb17-9e5d5d1e09d0-7f66df43')
+2025-07-20 23:40:41,012 - support.logger - INFO - Started step: , <then "Verify the right page opens">
+2025-07-20 23:40:41,020 - support.logger - INFO - Started step: , <then "Filter by sales status of Out of stock">
+2025-07-20 23:40:41,020 - support.logger - INFO - Searching for ('xpath', "//*[@wized='saleStatusFilter']")
+2025-07-20 23:40:41,064 - support.logger - INFO - Started step: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-20 23:40:41,071 - support.logger - INFO - Started failed: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-20 23:44:16,168 - support.logger - INFO - 
+Started scenario: User can filter by sale status Out of Stocks
+2025-07-20 23:44:17,572 - support.logger - INFO - Started step: , <given "Open the main page">
+2025-07-20 23:44:17,572 - support.logger - INFO - Opening URL: https://soft.reelly.io
+2025-07-20 23:44:19,183 - support.logger - INFO - Started step: , <when "Log in to the page">
+2025-07-20 23:44:19,827 - support.logger - INFO - Started step: , <when "Enter email luca.lorusso@icloud.com">
+2025-07-20 23:44:19,828 - support.logger - INFO - Entering "luca.lorusso@icloud.com" in ('css selector', "[placeholder='Email']")
+2025-07-20 23:44:20,644 - support.logger - INFO - Started step: , <when "Enter your FistQAtesting">
+2025-07-20 23:44:20,645 - support.logger - INFO - Entering "FistQAtesting" in ('css selector', "[placeholder='Password']")
+2025-07-20 23:44:20,665 - support.logger - INFO - Started step: , <when "Click continue button">
+2025-07-20 23:44:20,666 - support.logger - INFO - CLicking on ('css selector', "[wized='loginButton']")
+2025-07-20 23:44:20,761 - support.logger - INFO - Started step: , <when "Click on off plan at the left side menu">
+2025-07-20 23:44:25,282 - support.logger - INFO - Waiting for element click on ('css selector', '.pb-5.text-sm.font-semibold.transition-all.border-b-2.border-transparent.whitespace-nowrap.text-muted-foreground')
+2025-07-20 23:44:29,143 - support.logger - INFO - Waiting for element click on ('id', 'w-node-bf44e609-bef9-12ba-bb17-9e5d5d1e09d0-7f66df43')
+2025-07-20 23:44:31,660 - support.logger - INFO - Started step: , <then "Verify the right page opens">
+2025-07-20 23:44:31,669 - support.logger - INFO - Started step: , <then "Filter by sales status of Out of stock">
+2025-07-20 23:44:31,669 - support.logger - INFO - Searching for ('xpath', "//*[@wized='saleStatusFilter']")
+2025-07-20 23:44:31,714 - support.logger - INFO - Started step: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-20 23:44:31,843 - support.logger - INFO - Started failed: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-20 23:47:59,611 - support.logger - INFO - 
+Started scenario: User can filter by sale status Out of Stocks
+2025-07-20 23:48:00,935 - support.logger - INFO - Started step: , <given "Open the main page">
+2025-07-20 23:48:00,935 - support.logger - INFO - Opening URL: https://soft.reelly.io
+2025-07-20 23:48:02,299 - support.logger - INFO - Started step: , <when "Log in to the page">
+2025-07-20 23:48:02,862 - support.logger - INFO - Started step: , <when "Enter email luca.lorusso@icloud.com">
+2025-07-20 23:48:02,862 - support.logger - INFO - Entering "luca.lorusso@icloud.com" in ('css selector', "[placeholder='Email']")
+2025-07-20 23:48:03,481 - support.logger - INFO - Started step: , <when "Enter your FistQAtesting">
+2025-07-20 23:48:03,481 - support.logger - INFO - Entering "FistQAtesting" in ('css selector', "[placeholder='Password']")
+2025-07-20 23:48:03,503 - support.logger - INFO - Started step: , <when "Click continue button">
+2025-07-20 23:48:03,503 - support.logger - INFO - CLicking on ('css selector', "[wized='loginButton']")
+2025-07-20 23:48:03,610 - support.logger - INFO - Started step: , <when "Click on off plan at the left side menu">
+2025-07-20 23:48:08,125 - support.logger - INFO - Waiting for element click on ('css selector', '.pb-5.text-sm.font-semibold.transition-all.border-b-2.border-transparent.whitespace-nowrap.text-muted-foreground')
+2025-07-20 23:48:11,814 - support.logger - INFO - Waiting for element click on ('id', 'w-node-bf44e609-bef9-12ba-bb17-9e5d5d1e09d0-7f66df43')
+2025-07-20 23:48:14,349 - support.logger - INFO - Started step: , <then "Verify the right page opens">
+2025-07-20 23:48:14,358 - support.logger - INFO - Started step: , <then "Filter by sales status of Out of stock">
+2025-07-20 23:48:14,358 - support.logger - INFO - Searching for ('xpath', "//*[@wized='saleStatusFilter']")
+2025-07-20 23:48:14,403 - support.logger - INFO - Started step: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-20 23:48:14,407 - support.logger - INFO - Started failed: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-20 23:56:07,477 - support.logger - INFO - 
+Started scenario: User can filter by sale status Out of Stocks
+2025-07-20 23:56:08,908 - support.logger - INFO - Started step: , <given "Open the main page">
+2025-07-20 23:56:08,908 - support.logger - INFO - Opening URL: https://soft.reelly.io
+2025-07-20 23:56:11,698 - support.logger - INFO - Started step: , <when "Log in to the page">
+2025-07-20 23:56:12,378 - support.logger - INFO - Started step: , <when "Enter email luca.lorusso@icloud.com">
+2025-07-20 23:56:12,378 - support.logger - INFO - Entering "luca.lorusso@icloud.com" in ('css selector', "[placeholder='Email']")
+2025-07-20 23:56:13,112 - support.logger - INFO - Started step: , <when "Enter your FistQAtesting">
+2025-07-20 23:56:13,112 - support.logger - INFO - Entering "FistQAtesting" in ('css selector', "[placeholder='Password']")
+2025-07-20 23:56:13,132 - support.logger - INFO - Started step: , <when "Click continue button">
+2025-07-20 23:56:13,132 - support.logger - INFO - CLicking on ('css selector', "[wized='loginButton']")
+2025-07-20 23:56:13,241 - support.logger - INFO - Started step: , <when "Click on off plan at the left side menu">
+2025-07-20 23:56:17,730 - support.logger - INFO - Waiting for element click on ('css selector', '.pb-5.text-sm.font-semibold.transition-all.border-b-2.border-transparent.whitespace-nowrap.text-muted-foreground')
+2025-07-20 23:56:22,127 - support.logger - INFO - Waiting for element click on ('id', 'w-node-bf44e609-bef9-12ba-bb17-9e5d5d1e09d0-7f66df43')
+2025-07-20 23:56:24,729 - support.logger - INFO - Started step: , <then "Verify the right page opens">
+2025-07-20 23:56:24,737 - support.logger - INFO - Started step: , <then "Filter by sales status of Out of stock">
+2025-07-20 23:56:24,737 - support.logger - INFO - Searching for ('xpath', "//*[@wized='saleStatusFilter']")
+2025-07-20 23:56:24,783 - support.logger - INFO - Started step: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-20 23:56:24,789 - support.logger - INFO - Started failed: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 00:04:41,939 - support.logger - INFO - 
+Started scenario: User can filter by sale status Out of Stocks
+2025-07-21 00:04:44,107 - support.logger - INFO - Started step: , <given "Open the main page">
+2025-07-21 00:04:44,108 - support.logger - INFO - Opening URL: https://soft.reelly.io
+2025-07-21 00:04:45,856 - support.logger - INFO - Started step: , <when "Log in to the page">
+2025-07-21 00:04:46,388 - support.logger - INFO - Started step: , <when "Enter email luca.lorusso@icloud.com">
+2025-07-21 00:04:46,388 - support.logger - INFO - Entering "luca.lorusso@icloud.com" in ('css selector', "[placeholder='Email']")
+2025-07-21 00:04:47,144 - support.logger - INFO - Started step: , <when "Enter your FistQAtesting">
+2025-07-21 00:04:47,144 - support.logger - INFO - Entering "FistQAtesting" in ('css selector', "[placeholder='Password']")
+2025-07-21 00:04:47,164 - support.logger - INFO - Started step: , <when "Click continue button">
+2025-07-21 00:04:47,164 - support.logger - INFO - CLicking on ('css selector', "[wized='loginButton']")
+2025-07-21 00:04:47,280 - support.logger - INFO - Started step: , <when "Click on off plan at the left side menu">
+2025-07-21 00:04:51,876 - support.logger - INFO - Waiting for element click on ('css selector', '.pb-5.text-sm.font-semibold.transition-all.border-b-2.border-transparent.whitespace-nowrap.text-muted-foreground')
+2025-07-21 00:04:55,587 - support.logger - INFO - Waiting for element click on ('id', 'w-node-bf44e609-bef9-12ba-bb17-9e5d5d1e09d0-7f66df43')
+2025-07-21 00:04:58,297 - support.logger - INFO - Started step: , <then "Verify the right page opens">
+2025-07-21 00:04:58,306 - support.logger - INFO - Started step: , <then "Filter by sales status of Out of stock">
+2025-07-21 00:04:58,306 - support.logger - INFO - Searching for ('xpath', "//*[@wized='saleStatusFilter']")
+2025-07-21 00:04:58,350 - support.logger - INFO - Started step: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 00:04:58,477 - support.logger - INFO - Started failed: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 00:07:11,114 - support.logger - INFO - 
+Started scenario: User can filter by sale status Out of Stocks
+2025-07-21 00:07:12,480 - support.logger - INFO - Started step: , <given "Open the main page">
+2025-07-21 00:07:12,480 - support.logger - INFO - Opening URL: https://soft.reelly.io
+2025-07-21 00:07:13,992 - support.logger - INFO - Started step: , <when "Log in to the page">
+2025-07-21 00:07:14,868 - support.logger - INFO - Started step: , <when "Enter email luca.lorusso@icloud.com">
+2025-07-21 00:07:14,868 - support.logger - INFO - Entering "luca.lorusso@icloud.com" in ('css selector', "[placeholder='Email']")
+2025-07-21 00:07:15,695 - support.logger - INFO - Started step: , <when "Enter your FistQAtesting">
+2025-07-21 00:07:15,696 - support.logger - INFO - Entering "FistQAtesting" in ('css selector', "[placeholder='Password']")
+2025-07-21 00:07:15,716 - support.logger - INFO - Started step: , <when "Click continue button">
+2025-07-21 00:07:15,716 - support.logger - INFO - CLicking on ('css selector', "[wized='loginButton']")
+2025-07-21 00:07:15,825 - support.logger - INFO - Started step: , <when "Click on off plan at the left side menu">
+2025-07-21 00:07:20,338 - support.logger - INFO - Waiting for element click on ('css selector', '.pb-5.text-sm.font-semibold.transition-all.border-b-2.border-transparent.whitespace-nowrap.text-muted-foreground')
+2025-07-21 00:07:24,031 - support.logger - INFO - Waiting for element click on ('id', 'w-node-bf44e609-bef9-12ba-bb17-9e5d5d1e09d0-7f66df43')
+2025-07-21 00:07:26,568 - support.logger - INFO - Started step: , <then "Verify the right page opens">
+2025-07-21 00:07:26,577 - support.logger - INFO - Started step: , <then "Filter by sales status of Out of stock">
+2025-07-21 00:07:26,577 - support.logger - INFO - Searching for ('xpath', "//*[@wized='saleStatusFilter']")
+2025-07-21 00:07:26,619 - support.logger - INFO - Started step: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 00:07:26,626 - support.logger - INFO - Started failed: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 00:14:20,324 - support.logger - INFO - 
+Started scenario: User can filter by sale status Out of Stocks
+2025-07-21 00:14:21,710 - support.logger - INFO - Started step: , <given "Open the main page">
+2025-07-21 00:14:21,710 - support.logger - INFO - Opening URL: https://soft.reelly.io
+2025-07-21 00:14:23,669 - support.logger - INFO - Started step: , <when "Log in to the page">
+2025-07-21 00:14:26,421 - support.logger - INFO - Started step: , <when "Enter email luca.lorusso@icloud.com">
+2025-07-21 00:14:26,421 - support.logger - INFO - Entering "luca.lorusso@icloud.com" in ('css selector', "[placeholder='Email']")
+2025-07-21 00:14:27,451 - support.logger - INFO - Started step: , <when "Enter your FistQAtesting">
+2025-07-21 00:14:27,452 - support.logger - INFO - Entering "FistQAtesting" in ('css selector', "[placeholder='Password']")
+2025-07-21 00:14:27,478 - support.logger - INFO - Started step: , <when "Click continue button">
+2025-07-21 00:14:27,478 - support.logger - INFO - CLicking on ('css selector', "[wized='loginButton']")
+2025-07-21 00:14:27,602 - support.logger - INFO - Started step: , <when "Click on off plan at the left side menu">
+2025-07-21 00:14:33,221 - support.logger - INFO - Waiting for element click on ('css selector', '.pb-5.text-sm.font-semibold.transition-all.border-b-2.border-transparent.whitespace-nowrap.text-muted-foreground')
+2025-07-21 00:14:36,970 - support.logger - INFO - Waiting for element click on ('id', 'w-node-bf44e609-bef9-12ba-bb17-9e5d5d1e09d0-7f66df43')
+2025-07-21 00:14:39,716 - support.logger - INFO - Started step: , <then "Verify the right page opens">
+2025-07-21 00:14:39,724 - support.logger - INFO - Started step: , <then "Filter by sales status of Out of stock">
+2025-07-21 00:14:39,724 - support.logger - INFO - Searching for ('xpath', "//*[@wized='saleStatusFilter']")
+2025-07-21 00:14:39,767 - support.logger - INFO - Started step: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 00:14:39,887 - support.logger - INFO - Started failed: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 00:15:08,944 - support.logger - INFO - 
+Started scenario: User can filter by sale status Out of Stocks
+2025-07-21 00:15:10,342 - support.logger - INFO - Started step: , <given "Open the main page">
+2025-07-21 00:15:10,342 - support.logger - INFO - Opening URL: https://soft.reelly.io
+2025-07-21 00:15:11,832 - support.logger - INFO - Started step: , <when "Log in to the page">
+2025-07-21 00:15:12,704 - support.logger - INFO - Started step: , <when "Enter email luca.lorusso@icloud.com">
+2025-07-21 00:15:12,704 - support.logger - INFO - Entering "luca.lorusso@icloud.com" in ('css selector', "[placeholder='Email']")
+2025-07-21 00:15:13,367 - support.logger - INFO - Started step: , <when "Enter your FistQAtesting">
+2025-07-21 00:15:13,367 - support.logger - INFO - Entering "FistQAtesting" in ('css selector', "[placeholder='Password']")
+2025-07-21 00:15:13,388 - support.logger - INFO - Started step: , <when "Click continue button">
+2025-07-21 00:15:13,388 - support.logger - INFO - CLicking on ('css selector', "[wized='loginButton']")
+2025-07-21 00:15:13,509 - support.logger - INFO - Started step: , <when "Click on off plan at the left side menu">
+2025-07-21 00:15:18,038 - support.logger - INFO - Waiting for element click on ('css selector', '.pb-5.text-sm.font-semibold.transition-all.border-b-2.border-transparent.whitespace-nowrap.text-muted-foreground')
+2025-07-21 00:15:21,996 - support.logger - INFO - Waiting for element click on ('id', 'w-node-bf44e609-bef9-12ba-bb17-9e5d5d1e09d0-7f66df43')
+2025-07-21 00:15:24,800 - support.logger - INFO - Started step: , <then "Verify the right page opens">
+2025-07-21 00:15:24,807 - support.logger - INFO - Started step: , <then "Filter by sales status of Out of stock">
+2025-07-21 00:15:24,808 - support.logger - INFO - Searching for ('xpath', "//*[@wized='saleStatusFilter']")
+2025-07-21 00:15:24,852 - support.logger - INFO - Started step: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 00:15:24,992 - support.logger - INFO - Started failed: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 00:19:56,578 - support.logger - INFO - 
+Started scenario: User can filter by sale status Out of Stocks
+2025-07-21 00:19:57,978 - support.logger - INFO - Started step: , <given "Open the main page">
+2025-07-21 00:19:57,978 - support.logger - INFO - Opening URL: https://soft.reelly.io
+2025-07-21 00:19:59,758 - support.logger - INFO - Started step: , <when "Log in to the page">
+2025-07-21 00:20:00,279 - support.logger - INFO - Started step: , <when "Enter email luca.lorusso@icloud.com">
+2025-07-21 00:20:00,279 - support.logger - INFO - Entering "luca.lorusso@icloud.com" in ('css selector', "[placeholder='Email']")
+2025-07-21 00:20:00,880 - support.logger - INFO - Started step: , <when "Enter your FistQAtesting">
+2025-07-21 00:20:00,880 - support.logger - INFO - Entering "FistQAtesting" in ('css selector', "[placeholder='Password']")
+2025-07-21 00:20:00,900 - support.logger - INFO - Started step: , <when "Click continue button">
+2025-07-21 00:20:00,900 - support.logger - INFO - CLicking on ('css selector', "[wized='loginButton']")
+2025-07-21 00:20:01,008 - support.logger - INFO - Started step: , <when "Click on off plan at the left side menu">
+2025-07-21 00:20:05,622 - support.logger - INFO - Waiting for element click on ('css selector', '.pb-5.text-sm.font-semibold.transition-all.border-b-2.border-transparent.whitespace-nowrap.text-muted-foreground')
+2025-07-21 00:20:09,343 - support.logger - INFO - Waiting for element click on ('id', 'w-node-bf44e609-bef9-12ba-bb17-9e5d5d1e09d0-7f66df43')
+2025-07-21 00:20:11,886 - support.logger - INFO - Started step: , <then "Verify the right page opens">
+2025-07-21 00:20:11,894 - support.logger - INFO - Started step: , <then "Filter by sales status of Out of stock">
+2025-07-21 00:20:11,894 - support.logger - INFO - Searching for ('xpath', "//*[@wized='saleStatusFilter']")
+2025-07-21 00:20:11,938 - support.logger - INFO - Started step: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 00:20:11,944 - support.logger - INFO - Started failed: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 00:20:55,372 - support.logger - INFO - 
+Started scenario: User can filter by sale status Out of Stocks
+2025-07-21 00:20:56,767 - support.logger - INFO - Started step: , <given "Open the main page">
+2025-07-21 00:20:56,768 - support.logger - INFO - Opening URL: https://soft.reelly.io
+2025-07-21 00:20:58,310 - support.logger - INFO - Started step: , <when "Log in to the page">
+2025-07-21 00:20:58,541 - support.logger - INFO - Started step: , <when "Enter email luca.lorusso@icloud.com">
+2025-07-21 00:20:58,541 - support.logger - INFO - Entering "luca.lorusso@icloud.com" in ('css selector', "[placeholder='Email']")
+2025-07-21 00:20:59,428 - support.logger - INFO - Started step: , <when "Enter your FistQAtesting">
+2025-07-21 00:20:59,428 - support.logger - INFO - Entering "FistQAtesting" in ('css selector', "[placeholder='Password']")
+2025-07-21 00:20:59,455 - support.logger - INFO - Started step: , <when "Click continue button">
+2025-07-21 00:20:59,455 - support.logger - INFO - CLicking on ('css selector', "[wized='loginButton']")
+2025-07-21 00:20:59,558 - support.logger - INFO - Started step: , <when "Click on off plan at the left side menu">
+2025-07-21 00:21:04,042 - support.logger - INFO - Waiting for element click on ('css selector', '.pb-5.text-sm.font-semibold.transition-all.border-b-2.border-transparent.whitespace-nowrap.text-muted-foreground')
+2025-07-21 00:21:07,711 - support.logger - INFO - Waiting for element click on ('id', 'w-node-bf44e609-bef9-12ba-bb17-9e5d5d1e09d0-7f66df43')
+2025-07-21 00:21:10,263 - support.logger - INFO - Started step: , <then "Verify the right page opens">
+2025-07-21 00:21:10,271 - support.logger - INFO - Started step: , <then "Filter by sales status of Out of stock">
+2025-07-21 00:21:10,271 - support.logger - INFO - Searching for ('xpath', "//*[@wized='saleStatusFilter']")
+2025-07-21 00:21:10,315 - support.logger - INFO - Started step: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 00:21:10,438 - support.logger - INFO - Started failed: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 00:27:14,297 - support.logger - INFO - 
+Started scenario: User can filter by sale status Out of Stocks
+2025-07-21 00:27:15,757 - support.logger - INFO - Started step: , <given "Open the main page">
+2025-07-21 00:27:15,757 - support.logger - INFO - Opening URL: https://soft.reelly.io
+2025-07-21 00:27:17,031 - support.logger - INFO - Started step: , <when "Log in to the page">
+2025-07-21 00:27:17,629 - support.logger - INFO - Started step: , <when "Enter email luca.lorusso@icloud.com">
+2025-07-21 00:27:17,629 - support.logger - INFO - Entering "luca.lorusso@icloud.com" in ('css selector', "[placeholder='Email']")
+2025-07-21 00:27:18,176 - support.logger - INFO - Started step: , <when "Enter your FistQAtesting">
+2025-07-21 00:27:18,176 - support.logger - INFO - Entering "FistQAtesting" in ('css selector', "[placeholder='Password']")
+2025-07-21 00:27:18,196 - support.logger - INFO - Started step: , <when "Click continue button">
+2025-07-21 00:27:18,196 - support.logger - INFO - CLicking on ('css selector', "[wized='loginButton']")
+2025-07-21 00:27:18,321 - support.logger - INFO - Started step: , <when "Click on off plan at the left side menu">
+2025-07-21 00:27:22,953 - support.logger - INFO - Waiting for element click on ('css selector', '.pb-5.text-sm.font-semibold.transition-all.border-b-2.border-transparent.whitespace-nowrap.text-muted-foreground')
+2025-07-21 00:27:26,563 - support.logger - INFO - Waiting for element click on ('id', 'w-node-bf44e609-bef9-12ba-bb17-9e5d5d1e09d0-7f66df43')
+2025-07-21 00:27:29,044 - support.logger - INFO - Started step: , <then "Verify the right page opens">
+2025-07-21 00:27:29,052 - support.logger - INFO - Started step: , <then "Filter by sales status of Out of stock">
+2025-07-21 00:27:29,052 - support.logger - INFO - Searching for ('xpath', "//*[@wized='saleStatusFilter']")
+2025-07-21 00:27:29,096 - support.logger - INFO - Started step: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 00:27:29,224 - support.logger - INFO - Started failed: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 00:28:54,110 - support.logger - INFO - 
+Started scenario: User can filter by sale status Out of Stocks
+2025-07-21 00:28:55,491 - support.logger - INFO - Started step: , <given "Open the main page">
+2025-07-21 00:28:55,491 - support.logger - INFO - Opening URL: https://soft.reelly.io
+2025-07-21 00:28:56,959 - support.logger - INFO - Started step: , <when "Log in to the page">
+2025-07-21 00:28:57,306 - support.logger - INFO - Started step: , <when "Enter email luca.lorusso@icloud.com">
+2025-07-21 00:28:57,306 - support.logger - INFO - Entering "luca.lorusso@icloud.com" in ('css selector', "[placeholder='Email']")
+2025-07-21 00:28:57,882 - support.logger - INFO - Started step: , <when "Enter your FistQAtesting">
+2025-07-21 00:28:57,882 - support.logger - INFO - Entering "FistQAtesting" in ('css selector', "[placeholder='Password']")
+2025-07-21 00:28:57,903 - support.logger - INFO - Started step: , <when "Click continue button">
+2025-07-21 00:28:57,903 - support.logger - INFO - CLicking on ('css selector', "[wized='loginButton']")
+2025-07-21 00:28:58,038 - support.logger - INFO - Started step: , <when "Click on off plan at the left side menu">
+2025-07-21 00:29:02,615 - support.logger - INFO - Waiting for element click on ('css selector', '.pb-5.text-sm.font-semibold.transition-all.border-b-2.border-transparent.whitespace-nowrap.text-muted-foreground')
+2025-07-21 00:29:06,320 - support.logger - INFO - Waiting for element click on ('id', 'w-node-bf44e609-bef9-12ba-bb17-9e5d5d1e09d0-7f66df43')
+2025-07-21 00:29:08,816 - support.logger - INFO - Started step: , <then "Verify the right page opens">
+2025-07-21 00:29:08,825 - support.logger - INFO - Started step: , <then "Filter by sales status of Out of stock">
+2025-07-21 00:29:08,825 - support.logger - INFO - Searching for ('xpath', "//*[@wized='saleStatusFilter']")
+2025-07-21 00:29:08,869 - support.logger - INFO - Started step: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 00:29:08,994 - support.logger - INFO - Started failed: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 00:30:50,045 - support.logger - INFO - 
+Started scenario: User can filter by sale status Out of Stocks
+2025-07-21 00:30:51,403 - support.logger - INFO - Started step: , <given "Open the main page">
+2025-07-21 00:30:51,403 - support.logger - INFO - Opening URL: https://soft.reelly.io
+2025-07-21 00:30:52,972 - support.logger - INFO - Started step: , <when "Log in to the page">
+2025-07-21 00:30:53,525 - support.logger - INFO - Started step: , <when "Enter email luca.lorusso@icloud.com">
+2025-07-21 00:30:53,525 - support.logger - INFO - Entering "luca.lorusso@icloud.com" in ('css selector', "[placeholder='Email']")
+2025-07-21 00:30:54,015 - support.logger - INFO - Started step: , <when "Enter your FistQAtesting">
+2025-07-21 00:30:54,016 - support.logger - INFO - Entering "FistQAtesting" in ('css selector', "[placeholder='Password']")
+2025-07-21 00:30:54,038 - support.logger - INFO - Started step: , <when "Click continue button">
+2025-07-21 00:30:54,038 - support.logger - INFO - CLicking on ('css selector', "[wized='loginButton']")
+2025-07-21 00:30:54,149 - support.logger - INFO - Started step: , <when "Click on off plan at the left side menu">
+2025-07-21 00:30:58,665 - support.logger - INFO - Waiting for element click on ('css selector', '.pb-5.text-sm.font-semibold.transition-all.border-b-2.border-transparent.whitespace-nowrap.text-muted-foreground')
+2025-07-21 00:31:02,277 - support.logger - INFO - Waiting for element click on ('id', 'w-node-bf44e609-bef9-12ba-bb17-9e5d5d1e09d0-7f66df43')
+2025-07-21 00:31:04,843 - support.logger - INFO - Started step: , <then "Verify the right page opens">
+2025-07-21 00:31:04,852 - support.logger - INFO - Started step: , <then "Filter by sales status of Out of stock">
+2025-07-21 00:31:04,852 - support.logger - INFO - Searching for ('xpath', "//*[@wized='saleStatusFilter']")
+2025-07-21 00:31:04,897 - support.logger - INFO - Started step: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 00:31:05,023 - support.logger - INFO - Started failed: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 00:34:14,509 - support.logger - INFO - 
+Started scenario: User can filter by sale status Out of Stocks
+2025-07-21 00:34:15,916 - support.logger - INFO - Started step: , <given "Open the main page">
+2025-07-21 00:34:15,916 - support.logger - INFO - Opening URL: https://soft.reelly.io
+2025-07-21 00:34:17,202 - support.logger - INFO - Started step: , <when "Log in to the page">
+2025-07-21 00:34:17,746 - support.logger - INFO - Started step: , <when "Enter email luca.lorusso@icloud.com">
+2025-07-21 00:34:17,746 - support.logger - INFO - Entering "luca.lorusso@icloud.com" in ('css selector', "[placeholder='Email']")
+2025-07-21 00:34:18,444 - support.logger - INFO - Started step: , <when "Enter your FistQAtesting">
+2025-07-21 00:34:18,444 - support.logger - INFO - Entering "FistQAtesting" in ('css selector', "[placeholder='Password']")
+2025-07-21 00:34:18,469 - support.logger - INFO - Started step: , <when "Click continue button">
+2025-07-21 00:34:18,469 - support.logger - INFO - CLicking on ('css selector', "[wized='loginButton']")
+2025-07-21 00:34:18,589 - support.logger - INFO - Started step: , <when "Click on off plan at the left side menu">
+2025-07-21 00:34:23,140 - support.logger - INFO - Waiting for element click on ('css selector', '.pb-5.text-sm.font-semibold.transition-all.border-b-2.border-transparent.whitespace-nowrap.text-muted-foreground')
+2025-07-21 00:34:26,726 - support.logger - INFO - Waiting for element click on ('id', 'w-node-bf44e609-bef9-12ba-bb17-9e5d5d1e09d0-7f66df43')
+2025-07-21 00:34:29,235 - support.logger - INFO - Started step: , <then "Verify the right page opens">
+2025-07-21 00:34:29,244 - support.logger - INFO - Started step: , <then "Filter by sales status of Out of stock">
+2025-07-21 00:34:29,244 - support.logger - INFO - Searching for ('xpath', "//*[@wized='saleStatusFilter']")
+2025-07-21 00:34:29,289 - support.logger - INFO - Started step: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 00:34:29,419 - support.logger - INFO - Started failed: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 00:34:52,479 - support.logger - INFO - 
+Started scenario: User can filter by sale status Out of Stocks
+2025-07-21 00:34:53,846 - support.logger - INFO - Started step: , <given "Open the main page">
+2025-07-21 00:34:53,846 - support.logger - INFO - Opening URL: https://soft.reelly.io
+2025-07-21 00:34:55,277 - support.logger - INFO - Started step: , <when "Log in to the page">
+2025-07-21 00:34:55,947 - support.logger - INFO - Started step: , <when "Enter email luca.lorusso@icloud.com">
+2025-07-21 00:34:55,947 - support.logger - INFO - Entering "luca.lorusso@icloud.com" in ('css selector', "[placeholder='Email']")
+2025-07-21 00:34:56,505 - support.logger - INFO - Started step: , <when "Enter your FistQAtesting">
+2025-07-21 00:34:56,506 - support.logger - INFO - Entering "FistQAtesting" in ('css selector', "[placeholder='Password']")
+2025-07-21 00:34:56,528 - support.logger - INFO - Started step: , <when "Click continue button">
+2025-07-21 00:34:56,528 - support.logger - INFO - CLicking on ('css selector', "[wized='loginButton']")
+2025-07-21 00:34:56,647 - support.logger - INFO - Started step: , <when "Click on off plan at the left side menu">
+2025-07-21 00:35:01,253 - support.logger - INFO - Waiting for element click on ('css selector', '.pb-5.text-sm.font-semibold.transition-all.border-b-2.border-transparent.whitespace-nowrap.text-muted-foreground')
+2025-07-21 00:35:05,080 - support.logger - INFO - Waiting for element click on ('id', 'w-node-bf44e609-bef9-12ba-bb17-9e5d5d1e09d0-7f66df43')
+2025-07-21 00:35:07,632 - support.logger - INFO - Started step: , <then "Verify the right page opens">
+2025-07-21 00:35:07,640 - support.logger - INFO - Started step: , <then "Filter by sales status of Out of stock">
+2025-07-21 00:35:07,640 - support.logger - INFO - Searching for ('xpath', "//*[@wized='saleStatusFilter']")
+2025-07-21 00:35:07,684 - support.logger - INFO - Started step: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 00:35:07,806 - support.logger - INFO - Started failed: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 00:35:24,308 - support.logger - INFO - 
+Started scenario: User can filter by sale status Out of Stocks
+2025-07-21 00:35:25,696 - support.logger - INFO - Started step: , <given "Open the main page">
+2025-07-21 00:35:25,696 - support.logger - INFO - Opening URL: https://soft.reelly.io
+2025-07-21 00:35:27,114 - support.logger - INFO - Started step: , <when "Log in to the page">
+2025-07-21 00:35:27,605 - support.logger - INFO - Started step: , <when "Enter email luca.lorusso@icloud.com">
+2025-07-21 00:35:27,606 - support.logger - INFO - Entering "luca.lorusso@icloud.com" in ('css selector', "[placeholder='Email']")
+2025-07-21 00:35:28,107 - support.logger - INFO - Started step: , <when "Enter your FistQAtesting">
+2025-07-21 00:35:28,107 - support.logger - INFO - Entering "FistQAtesting" in ('css selector', "[placeholder='Password']")
+2025-07-21 00:35:28,128 - support.logger - INFO - Started step: , <when "Click continue button">
+2025-07-21 00:35:28,128 - support.logger - INFO - CLicking on ('css selector', "[wized='loginButton']")
+2025-07-21 00:35:28,242 - support.logger - INFO - Started step: , <when "Click on off plan at the left side menu">
+2025-07-21 00:35:32,583 - support.logger - INFO - Waiting for element click on ('css selector', '.pb-5.text-sm.font-semibold.transition-all.border-b-2.border-transparent.whitespace-nowrap.text-muted-foreground')
+2025-07-21 00:35:36,406 - support.logger - INFO - Waiting for element click on ('id', 'w-node-bf44e609-bef9-12ba-bb17-9e5d5d1e09d0-7f66df43')
+2025-07-21 00:35:38,886 - support.logger - INFO - Started step: , <then "Verify the right page opens">
+2025-07-21 00:35:38,895 - support.logger - INFO - Started step: , <then "Filter by sales status of Out of stock">
+2025-07-21 00:35:38,895 - support.logger - INFO - Searching for ('xpath', "//*[@wized='saleStatusFilter']")
+2025-07-21 00:35:38,939 - support.logger - INFO - Started step: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 00:35:39,063 - support.logger - INFO - Started failed: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 00:37:08,084 - support.logger - INFO - 
+Started scenario: User can filter by sale status Out of Stocks
+2025-07-21 00:37:09,405 - support.logger - INFO - Started step: , <given "Open the main page">
+2025-07-21 00:37:09,405 - support.logger - INFO - Opening URL: https://soft.reelly.io
+2025-07-21 00:37:10,731 - support.logger - INFO - Started step: , <when "Log in to the page">
+2025-07-21 00:37:11,189 - support.logger - INFO - Started step: , <when "Enter email luca.lorusso@icloud.com">
+2025-07-21 00:37:11,189 - support.logger - INFO - Entering "luca.lorusso@icloud.com" in ('css selector', "[placeholder='Email']")
+2025-07-21 00:37:11,714 - support.logger - INFO - Started step: , <when "Enter your FistQAtesting">
+2025-07-21 00:37:11,714 - support.logger - INFO - Entering "FistQAtesting" in ('css selector', "[placeholder='Password']")
+2025-07-21 00:37:11,735 - support.logger - INFO - Started step: , <when "Click continue button">
+2025-07-21 00:37:11,735 - support.logger - INFO - CLicking on ('css selector', "[wized='loginButton']")
+2025-07-21 00:37:11,851 - support.logger - INFO - Started step: , <when "Click on off plan at the left side menu">
+2025-07-21 00:37:16,330 - support.logger - INFO - Waiting for element click on ('css selector', '.pb-5.text-sm.font-semibold.transition-all.border-b-2.border-transparent.whitespace-nowrap.text-muted-foreground')
+2025-07-21 00:37:20,238 - support.logger - INFO - Waiting for element click on ('id', 'w-node-bf44e609-bef9-12ba-bb17-9e5d5d1e09d0-7f66df43')
+2025-07-21 00:37:22,701 - support.logger - INFO - Started step: , <then "Verify the right page opens">
+2025-07-21 00:37:22,710 - support.logger - INFO - Started step: , <then "Filter by sales status of Out of stock">
+2025-07-21 00:37:22,710 - support.logger - INFO - Searching for ('xpath', "//*[@wized='saleStatusFilter']")
+2025-07-21 00:37:22,755 - support.logger - INFO - Started step: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 00:37:22,760 - support.logger - INFO - Started failed: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 00:38:16,514 - support.logger - INFO - 
+Started scenario: User can filter by sale status Out of Stocks
+2025-07-21 00:38:17,892 - support.logger - INFO - Started step: , <given "Open the main page">
+2025-07-21 00:38:17,892 - support.logger - INFO - Opening URL: https://soft.reelly.io
+2025-07-21 00:38:19,550 - support.logger - INFO - Started step: , <when "Log in to the page">
+2025-07-21 00:38:19,983 - support.logger - INFO - Started step: , <when "Enter email luca.lorusso@icloud.com">
+2025-07-21 00:38:19,983 - support.logger - INFO - Entering "luca.lorusso@icloud.com" in ('css selector', "[placeholder='Email']")
+2025-07-21 00:38:20,887 - support.logger - INFO - Started step: , <when "Enter your FistQAtesting">
+2025-07-21 00:38:20,887 - support.logger - INFO - Entering "FistQAtesting" in ('css selector', "[placeholder='Password']")
+2025-07-21 00:38:20,907 - support.logger - INFO - Started step: , <when "Click continue button">
+2025-07-21 00:38:20,907 - support.logger - INFO - CLicking on ('css selector', "[wized='loginButton']")
+2025-07-21 00:38:21,050 - support.logger - INFO - Started step: , <when "Click on off plan at the left side menu">
+2025-07-21 00:38:25,434 - support.logger - INFO - Waiting for element click on ('css selector', '.pb-5.text-sm.font-semibold.transition-all.border-b-2.border-transparent.whitespace-nowrap.text-muted-foreground')
+2025-07-21 00:38:28,754 - support.logger - INFO - Waiting for element click on ('id', 'w-node-bf44e609-bef9-12ba-bb17-9e5d5d1e09d0-7f66df43')
+2025-07-21 00:38:31,760 - support.logger - INFO - Started step: , <then "Verify the right page opens">
+2025-07-21 00:38:31,769 - support.logger - INFO - Started step: , <then "Filter by sales status of Out of stock">
+2025-07-21 00:38:31,769 - support.logger - INFO - Searching for ('xpath', "//*[@wized='saleStatusFilter']")
+2025-07-21 00:38:31,815 - support.logger - INFO - Started step: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 00:38:31,820 - support.logger - INFO - Started failed: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 00:39:12,491 - support.logger - INFO - 
+Started scenario: User can filter by sale status Out of Stocks
+2025-07-21 00:39:13,864 - support.logger - INFO - Started step: , <given "Open the main page">
+2025-07-21 00:39:13,864 - support.logger - INFO - Opening URL: https://soft.reelly.io
+2025-07-21 00:39:15,263 - support.logger - INFO - Started step: , <when "Log in to the page">
+2025-07-21 00:39:15,733 - support.logger - INFO - Started step: , <when "Enter email luca.lorusso@icloud.com">
+2025-07-21 00:39:15,733 - support.logger - INFO - Entering "luca.lorusso@icloud.com" in ('css selector', "[placeholder='Email']")
+2025-07-21 00:39:16,333 - support.logger - INFO - Started step: , <when "Enter your FistQAtesting">
+2025-07-21 00:39:16,333 - support.logger - INFO - Entering "FistQAtesting" in ('css selector', "[placeholder='Password']")
+2025-07-21 00:39:16,353 - support.logger - INFO - Started step: , <when "Click continue button">
+2025-07-21 00:39:16,353 - support.logger - INFO - CLicking on ('css selector', "[wized='loginButton']")
+2025-07-21 00:39:16,479 - support.logger - INFO - Started step: , <when "Click on off plan at the left side menu">
+2025-07-21 00:39:21,212 - support.logger - INFO - Waiting for element click on ('css selector', '.pb-5.text-sm.font-semibold.transition-all.border-b-2.border-transparent.whitespace-nowrap.text-muted-foreground')
+2025-07-21 00:39:24,804 - support.logger - INFO - Waiting for element click on ('id', 'w-node-bf44e609-bef9-12ba-bb17-9e5d5d1e09d0-7f66df43')
+2025-07-21 00:39:27,339 - support.logger - INFO - Started step: , <then "Verify the right page opens">
+2025-07-21 00:39:27,348 - support.logger - INFO - Started step: , <then "Filter by sales status of Out of stock">
+2025-07-21 00:39:27,348 - support.logger - INFO - Searching for ('xpath', "//*[@wized='saleStatusFilter']")
+2025-07-21 00:39:27,390 - support.logger - INFO - Started step: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 00:39:27,396 - support.logger - INFO - Started failed: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 00:51:52,109 - support.logger - INFO - 
+Started scenario: User can filter by sale status Out of Stocks
+2025-07-21 00:51:53,549 - support.logger - INFO - Started step: , <given "Open the main page">
+2025-07-21 00:51:53,549 - support.logger - INFO - Opening URL: https://soft.reelly.io
+2025-07-21 00:51:55,324 - support.logger - INFO - Started step: , <when "Log in to the page">
+2025-07-21 00:51:56,164 - support.logger - INFO - Started step: , <when "Enter email luca.lorusso@icloud.com">
+2025-07-21 00:51:56,164 - support.logger - INFO - Entering "luca.lorusso@icloud.com" in ('css selector', "[placeholder='Email']")
+2025-07-21 00:51:56,713 - support.logger - INFO - Started step: , <when "Enter your FistQAtesting">
+2025-07-21 00:51:56,713 - support.logger - INFO - Entering "FistQAtesting" in ('css selector', "[placeholder='Password']")
+2025-07-21 00:51:56,734 - support.logger - INFO - Started step: , <when "Click continue button">
+2025-07-21 00:51:56,734 - support.logger - INFO - CLicking on ('css selector', "[wized='loginButton']")
+2025-07-21 00:51:56,866 - support.logger - INFO - Started step: , <when "Click on off plan at the left side menu">
+2025-07-21 00:52:02,098 - support.logger - INFO - Waiting for element click on ('css selector', '.pb-5.text-sm.font-semibold.transition-all.border-b-2.border-transparent.whitespace-nowrap.text-muted-foreground')
+2025-07-21 00:52:05,765 - support.logger - INFO - Waiting for element click on ('id', 'w-node-bf44e609-bef9-12ba-bb17-9e5d5d1e09d0-7f66df43')
+2025-07-21 00:52:08,318 - support.logger - INFO - Started step: , <then "Verify the right page opens">
+2025-07-21 00:52:08,326 - support.logger - INFO - Started step: , <then "Filter by sales status of Out of stock">
+2025-07-21 00:52:08,326 - support.logger - INFO - Searching for ('xpath', "//*[@wized='saleStatusFilter']")
+2025-07-21 00:52:08,369 - support.logger - INFO - Started step: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 00:52:10,412 - support.logger - INFO - Started failed: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 01:03:11,244 - support.logger - INFO - 
+Started scenario: User can filter by sale status Out of Stocks
+2025-07-21 01:03:12,651 - support.logger - INFO - Started step: , <given "Open the main page">
+2025-07-21 01:03:12,651 - support.logger - INFO - Opening URL: https://soft.reelly.io
+2025-07-21 01:03:14,601 - support.logger - INFO - Started step: , <when "Log in to the page">
+2025-07-21 01:03:15,242 - support.logger - INFO - Started step: , <when "Enter email luca.lorusso@icloud.com">
+2025-07-21 01:03:15,242 - support.logger - INFO - Entering "luca.lorusso@icloud.com" in ('css selector', "[placeholder='Email']")
+2025-07-21 01:03:15,862 - support.logger - INFO - Started step: , <when "Enter your FistQAtesting">
+2025-07-21 01:03:15,862 - support.logger - INFO - Entering "FistQAtesting" in ('css selector', "[placeholder='Password']")
+2025-07-21 01:03:15,882 - support.logger - INFO - Started step: , <when "Click continue button">
+2025-07-21 01:03:15,883 - support.logger - INFO - CLicking on ('css selector', "[wized='loginButton']")
+2025-07-21 01:03:16,013 - support.logger - INFO - Started step: , <when "Click on off plan at the left side menu">
+2025-07-21 01:03:21,163 - support.logger - INFO - Waiting for element click on ('css selector', '.pb-5.text-sm.font-semibold.transition-all.border-b-2.border-transparent.whitespace-nowrap.text-muted-foreground')
+2025-07-21 01:03:24,785 - support.logger - INFO - Waiting for element click on ('id', 'w-node-bf44e609-bef9-12ba-bb17-9e5d5d1e09d0-7f66df43')
+2025-07-21 01:03:27,322 - support.logger - INFO - Started step: , <then "Verify the right page opens">
+2025-07-21 01:03:27,331 - support.logger - INFO - Started step: , <then "Filter by sales status of Out of stock">
+2025-07-21 01:03:27,331 - support.logger - INFO - Searching for ('xpath', "//*[@wized='saleStatusFilter']")
+2025-07-21 01:03:27,378 - support.logger - INFO - Started step: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 01:03:27,518 - support.logger - INFO - Started failed: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 01:03:55,935 - support.logger - INFO - 
+Started scenario: User can filter by sale status Out of Stocks
+2025-07-21 01:03:57,270 - support.logger - INFO - Started step: , <given "Open the main page">
+2025-07-21 01:03:57,270 - support.logger - INFO - Opening URL: https://soft.reelly.io
+2025-07-21 01:03:58,764 - support.logger - INFO - Started step: , <when "Log in to the page">
+2025-07-21 01:03:59,298 - support.logger - INFO - Started step: , <when "Enter email luca.lorusso@icloud.com">
+2025-07-21 01:03:59,298 - support.logger - INFO - Entering "luca.lorusso@icloud.com" in ('css selector', "[placeholder='Email']")
+2025-07-21 01:03:59,849 - support.logger - INFO - Started step: , <when "Enter your FistQAtesting">
+2025-07-21 01:03:59,849 - support.logger - INFO - Entering "FistQAtesting" in ('css selector', "[placeholder='Password']")
+2025-07-21 01:03:59,870 - support.logger - INFO - Started step: , <when "Click continue button">
+2025-07-21 01:03:59,870 - support.logger - INFO - CLicking on ('css selector', "[wized='loginButton']")
+2025-07-21 01:03:59,977 - support.logger - INFO - Started step: , <when "Click on off plan at the left side menu">
+2025-07-21 01:04:04,633 - support.logger - INFO - Waiting for element click on ('css selector', '.pb-5.text-sm.font-semibold.transition-all.border-b-2.border-transparent.whitespace-nowrap.text-muted-foreground')
+2025-07-21 01:04:08,484 - support.logger - INFO - Waiting for element click on ('id', 'w-node-bf44e609-bef9-12ba-bb17-9e5d5d1e09d0-7f66df43')
+2025-07-21 01:04:10,960 - support.logger - INFO - Started step: , <then "Verify the right page opens">
+2025-07-21 01:04:10,970 - support.logger - INFO - Started step: , <then "Filter by sales status of Out of stock">
+2025-07-21 01:04:10,970 - support.logger - INFO - Searching for ('xpath', "//*[@wized='saleStatusFilter']")
+2025-07-21 01:04:11,020 - support.logger - INFO - Started step: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 01:04:11,148 - support.logger - INFO - Started failed: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 01:04:26,786 - support.logger - INFO - 
+Started scenario: User can filter by sale status Out of Stocks
+2025-07-21 01:04:28,141 - support.logger - INFO - Started step: , <given "Open the main page">
+2025-07-21 01:04:28,141 - support.logger - INFO - Opening URL: https://soft.reelly.io
+2025-07-21 01:04:29,546 - support.logger - INFO - Started step: , <when "Log in to the page">
+2025-07-21 01:04:30,449 - support.logger - INFO - Started step: , <when "Enter email luca.lorusso@icloud.com">
+2025-07-21 01:04:30,449 - support.logger - INFO - Entering "luca.lorusso@icloud.com" in ('css selector', "[placeholder='Email']")
+2025-07-21 01:04:31,002 - support.logger - INFO - Started step: , <when "Enter your FistQAtesting">
+2025-07-21 01:04:31,003 - support.logger - INFO - Entering "FistQAtesting" in ('css selector', "[placeholder='Password']")
+2025-07-21 01:04:31,023 - support.logger - INFO - Started step: , <when "Click continue button">
+2025-07-21 01:04:31,023 - support.logger - INFO - CLicking on ('css selector', "[wized='loginButton']")
+2025-07-21 01:04:31,130 - support.logger - INFO - Started step: , <when "Click on off plan at the left side menu">
+2025-07-21 01:04:35,545 - support.logger - INFO - Waiting for element click on ('css selector', '.pb-5.text-sm.font-semibold.transition-all.border-b-2.border-transparent.whitespace-nowrap.text-muted-foreground')
+2025-07-21 01:04:39,157 - support.logger - INFO - Waiting for element click on ('id', 'w-node-bf44e609-bef9-12ba-bb17-9e5d5d1e09d0-7f66df43')
+2025-07-21 01:04:41,694 - support.logger - INFO - Started step: , <then "Verify the right page opens">
+2025-07-21 01:04:41,702 - support.logger - INFO - Started step: , <then "Filter by sales status of Out of stock">
+2025-07-21 01:04:41,702 - support.logger - INFO - Searching for ('xpath', "//*[@wized='saleStatusFilter']")
+2025-07-21 01:04:41,746 - support.logger - INFO - Started step: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 01:04:41,879 - support.logger - INFO - Started failed: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 01:05:31,557 - support.logger - INFO - 
+Started scenario: User can filter by sale status Out of Stocks
+2025-07-21 01:05:32,933 - support.logger - INFO - Started step: , <given "Open the main page">
+2025-07-21 01:05:32,933 - support.logger - INFO - Opening URL: https://soft.reelly.io
+2025-07-21 01:05:34,255 - support.logger - INFO - Started step: , <when "Log in to the page">
+2025-07-21 01:05:34,779 - support.logger - INFO - Started step: , <when "Enter email luca.lorusso@icloud.com">
+2025-07-21 01:05:34,779 - support.logger - INFO - Entering "luca.lorusso@icloud.com" in ('css selector', "[placeholder='Email']")
+2025-07-21 01:05:35,832 - support.logger - INFO - Started step: , <when "Enter your FistQAtesting">
+2025-07-21 01:05:35,832 - support.logger - INFO - Entering "FistQAtesting" in ('css selector', "[placeholder='Password']")
+2025-07-21 01:05:35,854 - support.logger - INFO - Started step: , <when "Click continue button">
+2025-07-21 01:05:35,854 - support.logger - INFO - CLicking on ('css selector', "[wized='loginButton']")
+2025-07-21 01:05:35,984 - support.logger - INFO - Started step: , <when "Click on off plan at the left side menu">
+2025-07-21 01:05:40,483 - support.logger - INFO - Waiting for element click on ('css selector', '.pb-5.text-sm.font-semibold.transition-all.border-b-2.border-transparent.whitespace-nowrap.text-muted-foreground')
+2025-07-21 01:05:43,828 - support.logger - INFO - Waiting for element click on ('id', 'w-node-bf44e609-bef9-12ba-bb17-9e5d5d1e09d0-7f66df43')
+2025-07-21 01:05:46,603 - support.logger - INFO - Started step: , <then "Verify the right page opens">
+2025-07-21 01:05:46,611 - support.logger - INFO - Started step: , <then "Filter by sales status of Out of stock">
+2025-07-21 01:05:46,611 - support.logger - INFO - Searching for ('xpath', "//*[@wized='saleStatusFilter']")
+2025-07-21 01:05:46,657 - support.logger - INFO - Started step: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 01:05:50,714 - support.logger - INFO - Started failed: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 01:12:23,230 - support.logger - INFO - 
+Started scenario: User can filter by sale status Out of Stocks
+2025-07-21 01:12:24,708 - support.logger - INFO - Started step: , <given "Open the main page">
+2025-07-21 01:12:24,708 - support.logger - INFO - Opening URL: https://soft.reelly.io
+2025-07-21 01:12:26,277 - support.logger - INFO - Started step: , <when "Log in to the page">
+2025-07-21 01:12:27,114 - support.logger - INFO - Started step: , <when "Enter email luca.lorusso@icloud.com">
+2025-07-21 01:12:27,114 - support.logger - INFO - Entering "luca.lorusso@icloud.com" in ('css selector', "[placeholder='Email']")
+2025-07-21 01:12:27,765 - support.logger - INFO - Started step: , <when "Enter your FistQAtesting">
+2025-07-21 01:12:27,765 - support.logger - INFO - Entering "FistQAtesting" in ('css selector', "[placeholder='Password']")
+2025-07-21 01:12:27,787 - support.logger - INFO - Started step: , <when "Click continue button">
+2025-07-21 01:12:27,788 - support.logger - INFO - CLicking on ('css selector', "[wized='loginButton']")
+2025-07-21 01:12:27,897 - support.logger - INFO - Started step: , <when "Click on off plan at the left side menu">
+2025-07-21 01:12:32,841 - support.logger - INFO - Waiting for element click on ('css selector', '.pb-5.text-sm.font-semibold.transition-all.border-b-2.border-transparent.whitespace-nowrap.text-muted-foreground')
+2025-07-21 01:12:36,483 - support.logger - INFO - Waiting for element click on ('id', 'w-node-bf44e609-bef9-12ba-bb17-9e5d5d1e09d0-7f66df43')
+2025-07-21 01:12:39,013 - support.logger - INFO - Started step: , <then "Verify the right page opens">
+2025-07-21 01:12:39,021 - support.logger - INFO - Started step: , <then "Filter by sales status of Out of stock">
+2025-07-21 01:12:39,021 - support.logger - INFO - Searching for ('xpath', "//*[@wized='saleStatusFilter']")
+2025-07-21 01:12:39,065 - support.logger - INFO - Started step: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 01:12:42,104 - support.logger - INFO - Started failed: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 01:14:04,364 - support.logger - INFO - 
+Started scenario: User can filter by sale status Out of Stocks
+2025-07-21 01:14:05,770 - support.logger - INFO - Started step: , <given "Open the main page">
+2025-07-21 01:14:05,770 - support.logger - INFO - Opening URL: https://soft.reelly.io
+2025-07-21 01:14:07,326 - support.logger - INFO - Started step: , <when "Log in to the page">
+2025-07-21 01:14:07,907 - support.logger - INFO - Started step: , <when "Enter email luca.lorusso@icloud.com">
+2025-07-21 01:14:07,907 - support.logger - INFO - Entering "luca.lorusso@icloud.com" in ('css selector', "[placeholder='Email']")
+2025-07-21 01:14:08,422 - support.logger - INFO - Started step: , <when "Enter your FistQAtesting">
+2025-07-21 01:14:08,422 - support.logger - INFO - Entering "FistQAtesting" in ('css selector', "[placeholder='Password']")
+2025-07-21 01:14:08,441 - support.logger - INFO - Started step: , <when "Click continue button">
+2025-07-21 01:14:08,441 - support.logger - INFO - CLicking on ('css selector', "[wized='loginButton']")
+2025-07-21 01:14:08,586 - support.logger - INFO - Started step: , <when "Click on off plan at the left side menu">
+2025-07-21 01:14:13,093 - support.logger - INFO - Waiting for element click on ('css selector', '.pb-5.text-sm.font-semibold.transition-all.border-b-2.border-transparent.whitespace-nowrap.text-muted-foreground')
+2025-07-21 01:14:16,745 - support.logger - INFO - Waiting for element click on ('id', 'w-node-bf44e609-bef9-12ba-bb17-9e5d5d1e09d0-7f66df43')
+2025-07-21 01:14:19,286 - support.logger - INFO - Started step: , <then "Verify the right page opens">
+2025-07-21 01:14:19,294 - support.logger - INFO - Started step: , <then "Filter by sales status of Out of stock">
+2025-07-21 01:14:19,294 - support.logger - INFO - Searching for ('xpath', "//*[@wized='saleStatusFilter']")
+2025-07-21 01:14:19,340 - support.logger - INFO - Started step: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 01:14:27,392 - support.logger - INFO - Started failed: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 01:15:35,454 - support.logger - INFO - 
+Started scenario: User can filter by sale status Out of Stocks
+2025-07-21 01:15:37,005 - support.logger - INFO - Started step: , <given "Open the main page">
+2025-07-21 01:15:37,005 - support.logger - INFO - Opening URL: https://soft.reelly.io
+2025-07-21 01:15:38,811 - support.logger - INFO - Started step: , <when "Log in to the page">
+2025-07-21 01:15:39,542 - support.logger - INFO - Started step: , <when "Enter email luca.lorusso@icloud.com">
+2025-07-21 01:15:39,542 - support.logger - INFO - Entering "luca.lorusso@icloud.com" in ('css selector', "[placeholder='Email']")
+2025-07-21 01:15:40,104 - support.logger - INFO - Started step: , <when "Enter your FistQAtesting">
+2025-07-21 01:15:40,104 - support.logger - INFO - Entering "FistQAtesting" in ('css selector', "[placeholder='Password']")
+2025-07-21 01:15:40,124 - support.logger - INFO - Started step: , <when "Click continue button">
+2025-07-21 01:15:40,124 - support.logger - INFO - CLicking on ('css selector', "[wized='loginButton']")
+2025-07-21 01:15:40,265 - support.logger - INFO - Started step: , <when "Click on off plan at the left side menu">
+2025-07-21 01:15:44,935 - support.logger - INFO - Waiting for element click on ('css selector', '.pb-5.text-sm.font-semibold.transition-all.border-b-2.border-transparent.whitespace-nowrap.text-muted-foreground')
+2025-07-21 01:15:48,655 - support.logger - INFO - Waiting for element click on ('id', 'w-node-bf44e609-bef9-12ba-bb17-9e5d5d1e09d0-7f66df43')
+2025-07-21 01:15:51,268 - support.logger - INFO - Started step: , <then "Verify the right page opens">
+2025-07-21 01:15:51,277 - support.logger - INFO - Started step: , <then "Filter by sales status of Out of stock">
+2025-07-21 01:15:51,277 - support.logger - INFO - Searching for ('xpath', "//*[@wized='saleStatusFilter']")
+2025-07-21 01:15:51,330 - support.logger - INFO - Started step: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 01:15:57,375 - support.logger - INFO - Started failed: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 01:19:13,149 - support.logger - INFO - 
+Started scenario: User can filter by sale status Out of Stocks
+2025-07-21 01:19:14,537 - support.logger - INFO - Started step: , <given "Open the main page">
+2025-07-21 01:19:14,537 - support.logger - INFO - Opening URL: https://soft.reelly.io
+2025-07-21 01:19:16,184 - support.logger - INFO - Started step: , <when "Log in to the page">
+2025-07-21 01:19:16,659 - support.logger - INFO - Started step: , <when "Enter email luca.lorusso@icloud.com">
+2025-07-21 01:19:16,660 - support.logger - INFO - Entering "luca.lorusso@icloud.com" in ('css selector', "[placeholder='Email']")
+2025-07-21 01:19:17,419 - support.logger - INFO - Started step: , <when "Enter your FistQAtesting">
+2025-07-21 01:19:17,419 - support.logger - INFO - Entering "FistQAtesting" in ('css selector', "[placeholder='Password']")
+2025-07-21 01:19:17,440 - support.logger - INFO - Started step: , <when "Click continue button">
+2025-07-21 01:19:17,440 - support.logger - INFO - CLicking on ('css selector', "[wized='loginButton']")
+2025-07-21 01:19:17,562 - support.logger - INFO - Started step: , <when "Click on off plan at the left side menu">
+2025-07-21 01:19:22,181 - support.logger - INFO - Waiting for element click on ('css selector', '.pb-5.text-sm.font-semibold.transition-all.border-b-2.border-transparent.whitespace-nowrap.text-muted-foreground')
+2025-07-21 01:19:25,788 - support.logger - INFO - Waiting for element click on ('id', 'w-node-bf44e609-bef9-12ba-bb17-9e5d5d1e09d0-7f66df43')
+2025-07-21 01:19:28,272 - support.logger - INFO - Started step: , <then "Verify the right page opens">
+2025-07-21 01:19:28,281 - support.logger - INFO - Started step: , <then "Filter by sales status of Out of stock">
+2025-07-21 01:19:28,281 - support.logger - INFO - Searching for ('xpath', "//*[@wized='saleStatusFilter']")
+2025-07-21 01:19:28,326 - support.logger - INFO - Started step: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 01:19:34,370 - support.logger - INFO - Started failed: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 01:20:12,583 - support.logger - INFO - 
+Started scenario: User can filter by sale status Out of Stocks
+2025-07-21 01:20:13,917 - support.logger - INFO - Started step: , <given "Open the main page">
+2025-07-21 01:20:13,918 - support.logger - INFO - Opening URL: https://soft.reelly.io
+2025-07-21 01:20:15,147 - support.logger - INFO - Started step: , <when "Log in to the page">
+2025-07-21 01:20:15,741 - support.logger - INFO - Started step: , <when "Enter email luca.lorusso@icloud.com">
+2025-07-21 01:20:15,741 - support.logger - INFO - Entering "luca.lorusso@icloud.com" in ('css selector', "[placeholder='Email']")
+2025-07-21 01:20:16,580 - support.logger - INFO - Started step: , <when "Enter your FistQAtesting">
+2025-07-21 01:20:16,580 - support.logger - INFO - Entering "FistQAtesting" in ('css selector', "[placeholder='Password']")
+2025-07-21 01:20:16,602 - support.logger - INFO - Started step: , <when "Click continue button">
+2025-07-21 01:20:16,602 - support.logger - INFO - CLicking on ('css selector', "[wized='loginButton']")
+2025-07-21 01:20:16,730 - support.logger - INFO - Started step: , <when "Click on off plan at the left side menu">
+2025-07-21 01:20:21,680 - support.logger - INFO - Waiting for element click on ('css selector', '.pb-5.text-sm.font-semibold.transition-all.border-b-2.border-transparent.whitespace-nowrap.text-muted-foreground')
+2025-07-21 01:20:25,467 - support.logger - INFO - Waiting for element click on ('id', 'w-node-bf44e609-bef9-12ba-bb17-9e5d5d1e09d0-7f66df43')
+2025-07-21 01:20:28,379 - support.logger - INFO - Started step: , <then "Verify the right page opens">
+2025-07-21 01:20:28,387 - support.logger - INFO - Started step: , <then "Filter by sales status of Out of stock">
+2025-07-21 01:20:28,387 - support.logger - INFO - Searching for ('xpath', "//*[@wized='saleStatusFilter']")
+2025-07-21 01:20:28,434 - support.logger - INFO - Started step: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 01:20:31,470 - support.logger - INFO - Started failed: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 01:20:47,386 - support.logger - INFO - 
+Started scenario: User can filter by sale status Out of Stocks
+2025-07-21 01:20:48,759 - support.logger - INFO - Started step: , <given "Open the main page">
+2025-07-21 01:20:48,759 - support.logger - INFO - Opening URL: https://soft.reelly.io
+2025-07-21 01:20:49,984 - support.logger - INFO - Started step: , <when "Log in to the page">
+2025-07-21 01:20:50,462 - support.logger - INFO - Started step: , <when "Enter email luca.lorusso@icloud.com">
+2025-07-21 01:20:50,462 - support.logger - INFO - Entering "luca.lorusso@icloud.com" in ('css selector', "[placeholder='Email']")
+2025-07-21 01:20:51,017 - support.logger - INFO - Started step: , <when "Enter your FistQAtesting">
+2025-07-21 01:20:51,017 - support.logger - INFO - Entering "FistQAtesting" in ('css selector', "[placeholder='Password']")
+2025-07-21 01:20:51,038 - support.logger - INFO - Started step: , <when "Click continue button">
+2025-07-21 01:20:51,038 - support.logger - INFO - CLicking on ('css selector', "[wized='loginButton']")
+2025-07-21 01:20:51,165 - support.logger - INFO - Started step: , <when "Click on off plan at the left side menu">
+2025-07-21 01:20:55,728 - support.logger - INFO - Waiting for element click on ('css selector', '.pb-5.text-sm.font-semibold.transition-all.border-b-2.border-transparent.whitespace-nowrap.text-muted-foreground')
+2025-07-21 01:20:59,649 - support.logger - INFO - Waiting for element click on ('id', 'w-node-bf44e609-bef9-12ba-bb17-9e5d5d1e09d0-7f66df43')
+2025-07-21 01:21:02,436 - support.logger - INFO - Started step: , <then "Verify the right page opens">
+2025-07-21 01:21:02,445 - support.logger - INFO - Started step: , <then "Filter by sales status of Out of stock">
+2025-07-21 01:21:02,445 - support.logger - INFO - Searching for ('xpath', "//*[@wized='saleStatusFilter']")
+2025-07-21 01:21:02,493 - support.logger - INFO - Started step: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 01:21:07,523 - support.logger - INFO - Started failed: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 01:21:26,023 - support.logger - INFO - 
+Started scenario: User can filter by sale status Out of Stocks
+2025-07-21 01:21:27,293 - support.logger - INFO - Started step: , <given "Open the main page">
+2025-07-21 01:21:27,293 - support.logger - INFO - Opening URL: https://soft.reelly.io
+2025-07-21 01:21:28,790 - support.logger - INFO - Started step: , <when "Log in to the page">
+2025-07-21 01:21:29,231 - support.logger - INFO - Started step: , <when "Enter email luca.lorusso@icloud.com">
+2025-07-21 01:21:29,231 - support.logger - INFO - Entering "luca.lorusso@icloud.com" in ('css selector', "[placeholder='Email']")
+2025-07-21 01:21:29,966 - support.logger - INFO - Started step: , <when "Enter your FistQAtesting">
+2025-07-21 01:21:29,966 - support.logger - INFO - Entering "FistQAtesting" in ('css selector', "[placeholder='Password']")
+2025-07-21 01:21:29,987 - support.logger - INFO - Started step: , <when "Click continue button">
+2025-07-21 01:21:29,987 - support.logger - INFO - CLicking on ('css selector', "[wized='loginButton']")
+2025-07-21 01:21:30,093 - support.logger - INFO - Started step: , <when "Click on off plan at the left side menu">
+2025-07-21 01:21:34,575 - support.logger - INFO - Waiting for element click on ('css selector', '.pb-5.text-sm.font-semibold.transition-all.border-b-2.border-transparent.whitespace-nowrap.text-muted-foreground')
+2025-07-21 01:21:38,225 - support.logger - INFO - Waiting for element click on ('id', 'w-node-bf44e609-bef9-12ba-bb17-9e5d5d1e09d0-7f66df43')
+2025-07-21 01:21:40,757 - support.logger - INFO - Started step: , <then "Verify the right page opens">
+2025-07-21 01:21:40,769 - support.logger - INFO - Started step: , <then "Filter by sales status of Out of stock">
+2025-07-21 01:21:40,769 - support.logger - INFO - Searching for ('xpath', "//*[@wized='saleStatusFilter']")
+2025-07-21 01:21:40,824 - support.logger - INFO - Started step: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 01:21:45,867 - support.logger - INFO - Started failed: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 01:26:26,280 - support.logger - INFO - 
+Started scenario: User can filter by sale status Out of Stocks
+2025-07-21 01:26:27,649 - support.logger - INFO - Started step: , <given "Open the main page">
+2025-07-21 01:26:27,649 - support.logger - INFO - Opening URL: https://soft.reelly.io
+2025-07-21 01:26:29,219 - support.logger - INFO - Started step: , <when "Log in to the page">
+2025-07-21 01:26:29,813 - support.logger - INFO - Started step: , <when "Enter email luca.lorusso@icloud.com">
+2025-07-21 01:26:29,813 - support.logger - INFO - Entering "luca.lorusso@icloud.com" in ('css selector', "[placeholder='Email']")
+2025-07-21 01:26:30,340 - support.logger - INFO - Started step: , <when "Enter your FistQAtesting">
+2025-07-21 01:26:30,340 - support.logger - INFO - Entering "FistQAtesting" in ('css selector', "[placeholder='Password']")
+2025-07-21 01:26:30,360 - support.logger - INFO - Started step: , <when "Click continue button">
+2025-07-21 01:26:30,360 - support.logger - INFO - CLicking on ('css selector', "[wized='loginButton']")
+2025-07-21 01:26:30,459 - support.logger - INFO - Started step: , <when "Click on off plan at the left side menu">
+2025-07-21 01:26:36,123 - support.logger - INFO - Waiting for element click on ('css selector', '.pb-5.text-sm.font-semibold.transition-all.border-b-2.border-transparent.whitespace-nowrap.text-muted-foreground')
+2025-07-21 01:26:40,299 - support.logger - INFO - Waiting for element click on ('id', 'w-node-bf44e609-bef9-12ba-bb17-9e5d5d1e09d0-7f66df43')
+2025-07-21 01:26:42,819 - support.logger - INFO - Started step: , <then "Verify the right page opens">
+2025-07-21 01:26:42,832 - support.logger - INFO - Started step: , <then "Filter by sales status of Out of stock">
+2025-07-21 01:26:42,832 - support.logger - INFO - Searching for ('xpath', "//*[@wized='saleStatusFilter']")
+2025-07-21 01:26:42,878 - support.logger - INFO - Started step: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 01:26:48,923 - support.logger - INFO - Started failed: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 01:37:32,735 - support.logger - INFO - 
+Started scenario: User can filter by sale status Out of Stocks
+2025-07-21 01:37:34,118 - support.logger - INFO - Started step: , <given "Open the main page">
+2025-07-21 01:37:34,118 - support.logger - INFO - Opening URL: https://soft.reelly.io
+2025-07-21 01:37:35,803 - support.logger - INFO - Started step: , <when "Log in to the page">
+2025-07-21 01:37:36,402 - support.logger - INFO - Started step: , <when "Enter email luca.lorusso@icloud.com">
+2025-07-21 01:37:36,402 - support.logger - INFO - Entering "luca.lorusso@icloud.com" in ('css selector', "[placeholder='Email']")
+2025-07-21 01:37:37,098 - support.logger - INFO - Started step: , <when "Enter your FistQAtesting">
+2025-07-21 01:37:37,098 - support.logger - INFO - Entering "FistQAtesting" in ('css selector', "[placeholder='Password']")
+2025-07-21 01:37:37,118 - support.logger - INFO - Started step: , <when "Click continue button">
+2025-07-21 01:37:37,118 - support.logger - INFO - CLicking on ('css selector', "[wized='loginButton']")
+2025-07-21 01:37:37,242 - support.logger - INFO - Started step: , <when "Click on off plan at the left side menu">
+2025-07-21 01:37:42,513 - support.logger - INFO - Waiting for element click on ('css selector', '.pb-5.text-sm.font-semibold.transition-all.border-b-2.border-transparent.whitespace-nowrap.text-muted-foreground')
+2025-07-21 01:37:46,171 - support.logger - INFO - Waiting for element click on ('id', 'w-node-bf44e609-bef9-12ba-bb17-9e5d5d1e09d0-7f66df43')
+2025-07-21 01:37:48,800 - support.logger - INFO - Started step: , <then "Verify the right page opens">
+2025-07-21 01:37:48,808 - support.logger - INFO - Started step: , <then "Filter by sales status of Out of stock">
+2025-07-21 01:37:48,808 - support.logger - INFO - Searching for ('xpath', "//*[@wized='saleStatusFilter']")
+2025-07-21 01:37:48,860 - support.logger - INFO - Started step: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 01:38:19,205 - support.logger - INFO - 
+Started scenario: User can filter by sale status Out of Stocks
+2025-07-21 01:38:20,572 - support.logger - INFO - Started step: , <given "Open the main page">
+2025-07-21 01:38:20,572 - support.logger - INFO - Opening URL: https://soft.reelly.io
+2025-07-21 01:38:21,959 - support.logger - INFO - Started step: , <when "Log in to the page">
+2025-07-21 01:38:22,590 - support.logger - INFO - Started step: , <when "Enter email luca.lorusso@icloud.com">
+2025-07-21 01:38:22,590 - support.logger - INFO - Entering "luca.lorusso@icloud.com" in ('css selector', "[placeholder='Email']")
+2025-07-21 01:38:23,220 - support.logger - INFO - Started step: , <when "Enter your FistQAtesting">
+2025-07-21 01:38:23,221 - support.logger - INFO - Entering "FistQAtesting" in ('css selector', "[placeholder='Password']")
+2025-07-21 01:38:23,241 - support.logger - INFO - Started step: , <when "Click continue button">
+2025-07-21 01:38:23,242 - support.logger - INFO - CLicking on ('css selector', "[wized='loginButton']")
+2025-07-21 01:38:23,348 - support.logger - INFO - Started step: , <when "Click on off plan at the left side menu">
+2025-07-21 01:38:27,951 - support.logger - INFO - Waiting for element click on ('css selector', '.pb-5.text-sm.font-semibold.transition-all.border-b-2.border-transparent.whitespace-nowrap.text-muted-foreground')
+2025-07-21 01:38:31,569 - support.logger - INFO - Waiting for element click on ('id', 'w-node-bf44e609-bef9-12ba-bb17-9e5d5d1e09d0-7f66df43')
+2025-07-21 01:38:34,108 - support.logger - INFO - Started step: , <then "Verify the right page opens">
+2025-07-21 01:38:34,116 - support.logger - INFO - Started step: , <then "Filter by sales status of Out of stock">
+2025-07-21 01:38:34,116 - support.logger - INFO - Searching for ('xpath', "//*[@wized='saleStatusFilter']")
+2025-07-21 01:38:34,170 - support.logger - INFO - Started step: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 01:39:53,165 - support.logger - INFO - 
+Started scenario: User can filter by sale status Out of Stocks
+2025-07-21 01:39:54,485 - support.logger - INFO - Started step: , <given "Open the main page">
+2025-07-21 01:39:54,485 - support.logger - INFO - Opening URL: https://soft.reelly.io
+2025-07-21 01:39:55,893 - support.logger - INFO - Started step: , <when "Log in to the page">
+2025-07-21 01:39:56,599 - support.logger - INFO - Started step: , <when "Enter email luca.lorusso@icloud.com">
+2025-07-21 01:39:56,599 - support.logger - INFO - Entering "luca.lorusso@icloud.com" in ('css selector', "[placeholder='Email']")
+2025-07-21 01:39:57,148 - support.logger - INFO - Started step: , <when "Enter your FistQAtesting">
+2025-07-21 01:39:57,148 - support.logger - INFO - Entering "FistQAtesting" in ('css selector', "[placeholder='Password']")
+2025-07-21 01:39:57,170 - support.logger - INFO - Started step: , <when "Click continue button">
+2025-07-21 01:39:57,170 - support.logger - INFO - CLicking on ('css selector', "[wized='loginButton']")
+2025-07-21 01:39:57,292 - support.logger - INFO - Started step: , <when "Click on off plan at the left side menu">
+2025-07-21 01:40:01,895 - support.logger - INFO - Waiting for element click on ('css selector', '.pb-5.text-sm.font-semibold.transition-all.border-b-2.border-transparent.whitespace-nowrap.text-muted-foreground')
+2025-07-21 01:40:05,778 - support.logger - INFO - Waiting for element click on ('id', 'w-node-bf44e609-bef9-12ba-bb17-9e5d5d1e09d0-7f66df43')
+2025-07-21 01:40:08,271 - support.logger - INFO - Started step: , <then "Verify the right page opens">
+2025-07-21 01:40:08,279 - support.logger - INFO - Started step: , <then "Filter by sales status of Out of stock">
+2025-07-21 01:40:08,280 - support.logger - INFO - Searching for ('xpath', "//*[@wized='saleStatusFilter']")
+2025-07-21 01:40:08,326 - support.logger - INFO - Started step: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 01:40:08,469 - support.logger - INFO - Started failed: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 01:41:08,018 - support.logger - INFO - 
+Started scenario: User can filter by sale status Out of Stocks
+2025-07-21 01:41:09,410 - support.logger - INFO - Started step: , <given "Open the main page">
+2025-07-21 01:41:09,411 - support.logger - INFO - Opening URL: https://soft.reelly.io
+2025-07-21 01:41:11,314 - support.logger - INFO - Started step: , <when "Log in to the page">
+2025-07-21 01:41:11,826 - support.logger - INFO - Started step: , <when "Enter email luca.lorusso@icloud.com">
+2025-07-21 01:41:11,826 - support.logger - INFO - Entering "luca.lorusso@icloud.com" in ('css selector', "[placeholder='Email']")
+2025-07-21 01:41:12,496 - support.logger - INFO - Started step: , <when "Enter your FistQAtesting">
+2025-07-21 01:41:12,496 - support.logger - INFO - Entering "FistQAtesting" in ('css selector', "[placeholder='Password']")
+2025-07-21 01:41:12,518 - support.logger - INFO - Started step: , <when "Click continue button">
+2025-07-21 01:41:12,518 - support.logger - INFO - CLicking on ('css selector', "[wized='loginButton']")
+2025-07-21 01:41:12,637 - support.logger - INFO - Started step: , <when "Click on off plan at the left side menu">
+2025-07-21 01:41:17,125 - support.logger - INFO - Waiting for element click on ('css selector', '.pb-5.text-sm.font-semibold.transition-all.border-b-2.border-transparent.whitespace-nowrap.text-muted-foreground')
+2025-07-21 01:41:20,819 - support.logger - INFO - Waiting for element click on ('id', 'w-node-bf44e609-bef9-12ba-bb17-9e5d5d1e09d0-7f66df43')
+2025-07-21 01:41:23,437 - support.logger - INFO - Started step: , <then "Verify the right page opens">
+2025-07-21 01:41:23,446 - support.logger - INFO - Started step: , <then "Filter by sales status of Out of stock">
+2025-07-21 01:41:23,446 - support.logger - INFO - Searching for ('xpath', "//*[@wized='saleStatusFilter']")
+2025-07-21 01:41:23,490 - support.logger - INFO - Started step: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 01:41:23,633 - support.logger - INFO - Started failed: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 01:41:45,030 - support.logger - INFO - 
+Started scenario: User can filter by sale status Out of Stocks
+2025-07-21 01:41:46,401 - support.logger - INFO - Started step: , <given "Open the main page">
+2025-07-21 01:41:46,402 - support.logger - INFO - Opening URL: https://soft.reelly.io
+2025-07-21 01:41:47,746 - support.logger - INFO - Started step: , <when "Log in to the page">
+2025-07-21 01:41:48,306 - support.logger - INFO - Started step: , <when "Enter email luca.lorusso@icloud.com">
+2025-07-21 01:41:48,306 - support.logger - INFO - Entering "luca.lorusso@icloud.com" in ('css selector', "[placeholder='Email']")
+2025-07-21 01:41:48,891 - support.logger - INFO - Started step: , <when "Enter your FistQAtesting">
+2025-07-21 01:41:48,891 - support.logger - INFO - Entering "FistQAtesting" in ('css selector', "[placeholder='Password']")
+2025-07-21 01:41:48,913 - support.logger - INFO - Started step: , <when "Click continue button">
+2025-07-21 01:41:48,913 - support.logger - INFO - CLicking on ('css selector', "[wized='loginButton']")
+2025-07-21 01:41:49,024 - support.logger - INFO - Started step: , <when "Click on off plan at the left side menu">
+2025-07-21 01:41:53,654 - support.logger - INFO - Waiting for element click on ('css selector', '.pb-5.text-sm.font-semibold.transition-all.border-b-2.border-transparent.whitespace-nowrap.text-muted-foreground')
+2025-07-21 01:41:57,262 - support.logger - INFO - Waiting for element click on ('id', 'w-node-bf44e609-bef9-12ba-bb17-9e5d5d1e09d0-7f66df43')
+2025-07-21 01:41:59,703 - support.logger - INFO - Started step: , <then "Verify the right page opens">
+2025-07-21 01:41:59,712 - support.logger - INFO - Started step: , <then "Filter by sales status of Out of stock">
+2025-07-21 01:41:59,712 - support.logger - INFO - Searching for ('xpath', "//*[@wized='saleStatusFilter']")
+2025-07-21 01:41:59,759 - support.logger - INFO - Started step: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 01:41:59,903 - support.logger - INFO - Started failed: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 01:42:59,467 - support.logger - INFO - 
+Started scenario: User can filter by sale status Out of Stocks
+2025-07-21 01:43:00,823 - support.logger - INFO - Started step: , <given "Open the main page">
+2025-07-21 01:43:00,823 - support.logger - INFO - Opening URL: https://soft.reelly.io
+2025-07-21 01:43:02,128 - support.logger - INFO - Started step: , <when "Log in to the page">
+2025-07-21 01:43:02,462 - support.logger - INFO - Started step: , <when "Enter email luca.lorusso@icloud.com">
+2025-07-21 01:43:02,462 - support.logger - INFO - Entering "luca.lorusso@icloud.com" in ('css selector', "[placeholder='Email']")
+2025-07-21 01:43:03,132 - support.logger - INFO - Started step: , <when "Enter your FistQAtesting">
+2025-07-21 01:43:03,132 - support.logger - INFO - Entering "FistQAtesting" in ('css selector', "[placeholder='Password']")
+2025-07-21 01:43:03,152 - support.logger - INFO - Started step: , <when "Click continue button">
+2025-07-21 01:43:03,152 - support.logger - INFO - CLicking on ('css selector', "[wized='loginButton']")
+2025-07-21 01:43:03,262 - support.logger - INFO - Started step: , <when "Click on off plan at the left side menu">
+2025-07-21 01:43:07,613 - support.logger - INFO - Waiting for element click on ('css selector', '.pb-5.text-sm.font-semibold.transition-all.border-b-2.border-transparent.whitespace-nowrap.text-muted-foreground')
+2025-07-21 01:43:11,233 - support.logger - INFO - Waiting for element click on ('id', 'w-node-bf44e609-bef9-12ba-bb17-9e5d5d1e09d0-7f66df43')
+2025-07-21 01:43:13,829 - support.logger - INFO - Started step: , <then "Verify the right page opens">
+2025-07-21 01:43:13,837 - support.logger - INFO - Started step: , <then "Filter by sales status of Out of stock">
+2025-07-21 01:43:13,837 - support.logger - INFO - Searching for ('xpath', "//*[@wized='saleStatusFilter']")
+2025-07-21 01:43:13,880 - support.logger - INFO - Started step: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 01:43:19,927 - support.logger - INFO - Started failed: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 01:43:39,480 - support.logger - INFO - 
+Started scenario: User can filter by sale status Out of Stocks
+2025-07-21 01:43:40,789 - support.logger - INFO - Started step: , <given "Open the main page">
+2025-07-21 01:43:40,790 - support.logger - INFO - Opening URL: https://soft.reelly.io
+2025-07-21 01:43:42,167 - support.logger - INFO - Started step: , <when "Log in to the page">
+2025-07-21 01:43:42,640 - support.logger - INFO - Started step: , <when "Enter email luca.lorusso@icloud.com">
+2025-07-21 01:43:42,640 - support.logger - INFO - Entering "luca.lorusso@icloud.com" in ('css selector', "[placeholder='Email']")
+2025-07-21 01:43:43,220 - support.logger - INFO - Started step: , <when "Enter your FistQAtesting">
+2025-07-21 01:43:43,220 - support.logger - INFO - Entering "FistQAtesting" in ('css selector', "[placeholder='Password']")
+2025-07-21 01:43:43,240 - support.logger - INFO - Started step: , <when "Click continue button">
+2025-07-21 01:43:43,240 - support.logger - INFO - CLicking on ('css selector', "[wized='loginButton']")
+2025-07-21 01:43:43,367 - support.logger - INFO - Started step: , <when "Click on off plan at the left side menu">
+2025-07-21 01:43:47,849 - support.logger - INFO - Waiting for element click on ('css selector', '.pb-5.text-sm.font-semibold.transition-all.border-b-2.border-transparent.whitespace-nowrap.text-muted-foreground')
+2025-07-21 01:43:51,726 - support.logger - INFO - Waiting for element click on ('id', 'w-node-bf44e609-bef9-12ba-bb17-9e5d5d1e09d0-7f66df43')
+2025-07-21 01:43:54,199 - support.logger - INFO - Started step: , <then "Verify the right page opens">
+2025-07-21 01:43:54,207 - support.logger - INFO - Started step: , <then "Filter by sales status of Out of stock">
+2025-07-21 01:43:54,208 - support.logger - INFO - Searching for ('xpath', "//*[@wized='saleStatusFilter']")
+2025-07-21 01:43:54,258 - support.logger - INFO - Started step: , <then "Verify each product contains the Out of Stocks tag">
+2025-07-21 01:44:16,749 - support.logger - INFO - 
+Started scenario: User can filter by sale status Out of Stocks
+2025-07-21 01:44:17,992 - support.logger - INFO - Started step: , <given "Open the main page">
+2025-07-21 01:44:17,992 - support.logger - INFO - Opening URL: https://soft.reelly.io
+2025-07-21 01:44:19,451 - support.logger - INFO - Started step: , <when "Log in to the page">
+2025-07-21 01:44:20,510 - support.logger - INFO - Started step: , <when "Enter email luca.lorusso@icloud.com">
+2025-07-21 01:44:20,510 - support.logger - INFO - Entering "luca.lorusso@icloud.com" in ('css selector', "[placeholder='Email']")
+2025-07-21 01:44:21,217 - support.logger - INFO - Started step: , <when "Enter your FistQAtesting">
+2025-07-21 01:44:21,217 - support.logger - INFO - Entering "FistQAtesting" in ('css selector', "[placeholder='Password']")
+2025-07-21 01:44:21,237 - support.logger - INFO - Started step: , <when "Click continue button">
+2025-07-21 01:44:21,237 - support.logger - INFO - CLicking on ('css selector', "[wized='loginButton']")
+2025-07-21 01:44:21,354 - support.logger - INFO - Started step: , <when "Click on off plan at the left side menu">
+2025-07-21 01:44:26,065 - support.logger - INFO - Waiting for element click on ('css selector', '.pb-5.text-sm.font-semibold.transition-all.border-b-2.border-transparent.whitespace-nowrap.text-muted-foreground')
+2025-07-21 01:44:29,773 - support.logger - INFO - Waiting for element click on ('id', 'w-node-bf44e609-bef9-12ba-bb17-9e5d5d1e09d0-7f66df43')
+2025-07-21 01:44:32,309 - support.logger - INFO - Started step: , <then "Verify the right page opens">
+2025-07-21 01:44:32,318 - support.logger - INFO - Started step: , <then "Filter by sales status of Out of stock">
+2025-07-21 01:44:32,318 - support.logger - INFO - Searching for ('xpath', "//*[@wized='saleStatusFilter']")
+2025-07-21 01:44:32,362 - support.logger - INFO - Started step: , <then "Verify each product contains the Out of Stocks tag">

@@ -8,12 +8,11 @@ class VerificationPage(Page):
     # PAGE_TITLE = (By.CSS_SELECTOR, ".page-title.off_plan")
     SALES_FILTER = (By.XPATH, "//*[@wized='saleStatusFilter']")
     # HEADER = (By.XPATH, "//h1[text()=' {SUBSTR}']")
-    # OUT_OF_STOCK_FILTER = (By.CSS_SELECTOR, "//*[@wized='saleStatusFilter']")
 
     def verify_url(self):
         self.wait_for_url_contains(*self, 'pricePer=unit&withDealBonus=false&handoverOnly=false&handoverMonths=1')
 
-    def sale_filters(self, value):
+    def verify_sale_filters(self, value):
         SF = self.find_element(*self.SALES_FILTER)
         select = Select(SF)
         select.select_by_value(value)

@@ -13,7 +13,7 @@ class OffPlanPage(Page):
 
     OFF_PLAN_TXT = (By.XPATH,"//button[text()='Off-plan']")
     SALE_STATUS_TAB = (By.XPATH,"//button[text()='Sale Status']")
-    OUT_OF_STOCK_FILTER_BUTTON = (By.XPATH,"//*[@wized='saleStatusFilter']")
+    OUT_OF_STOCK_FILTER_BUTTON = (By.XPATH,"//div[text()='Out of stock']")
 
     def sale_status_tab(self):
         self.wait_for_element_click(*self.SALE_STATUS_TAB)

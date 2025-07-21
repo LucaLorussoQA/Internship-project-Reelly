@@ -4,4 +4,4 @@ from behave import given, when, then
 
 @then('Filter by sales status of {value}')
 def filter_out_of_stocks(context, value):
-    context.app.verification_page.sale_filters(value)
+    context.app.verification_page.verify_sale_filters(value)
