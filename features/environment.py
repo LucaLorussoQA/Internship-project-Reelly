@@ -7,14 +7,16 @@ from selenium.webdriver.support.ui import WebDriverWait
 from pages.base_page import Page
 from app.application import Application
 from support.logger import logger
+from selenium.webdriver.remote.remote_connection import ClientConfig ## BROWSERSTACK ###
+from requests import options ## BROWSERSTACK ###
 
 def browser_init(context, scenario_name):
     """
     :param context: Behave context
     """
-    driver_path = ChromeDriverManager().install()
-    service = Service(driver_path)
-    context.driver = webdriver.Chrome(service=service)
+    # driver_path = ChromeDriverManager().install()
+    # service = Service(driver_path)
+    # context.driver = webdriver.Chrome(service=service)
 
     # ####  USING FIREFOX ####
     # context.driver = webdriver.Firefox()
@@ -26,7 +28,7 @@ def browser_init(context, scenario_name):
     #     options=options
     # )
 
-    ## BROWSERSTACK ###
+    # # BROWSERSTACK ###
     # bs_user ='lucalorusso_4ve1uT'
     # bs_key = 'CMSyXp5RSJZpPs1mNbaR'
     # url = f'http://{bs_user}:{bs_key}@hub-cloud.browserstack.com/wd/hub'
@@ -41,7 +43,22 @@ def browser_init(context, scenario_name):
     # options.set_capability('bstack:options', bstack_options)
     # context.driver = webdriver.Remote(command_executor=url, options=options)
 
-
+    ## BROWSERSTACK ###
+    # config = ClientConfig()
+    # config.username = 'luca.lorusso@icloud.com'
+    # config.password = 'FirstQAtesting1'
+    #
+    # url = f'http://{config.username}:{config.password}@hub-cloud.browserstack.com/wd/hub'
+    # bstack_options = {
+    #     "os" : "Windows",
+    #     "osVersion" : "11",
+    #     'browserName': 'Chrome',
+    #     'sessionName': scenario_name,
+    # }
+    #
+    # options = Options()
+    # options.set_capability('bstack:options', bstack_options)
+    # context.driver = webdriver.Remote(command_executor=url, options=options)
 
     context.driver.maximize_window()
     context.driver.implicitly_wait(4)
