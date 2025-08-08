@@ -13,7 +13,9 @@ class OffPlanPage(Page):
 
     OFF_PLAN_TXT = (By.XPATH,"//button[text()='Off-plan']")
     SALE_STATUS_TAB = (By.XPATH,"//button[text()='Sale Status']")
-    OUT_OF_STOCK_FILTER_BUTTON = (By.XPATH,"//div[text()='Out of stock']")
+    OUT_OF_STOCK_FILTER_BUTTON = (By.XPATH, "//div[text()='Out of stock']")
+    OUT_OF_STOCK_FILTER_BUTTON_MOBILE = (By.XPATH,"//div[text()='Out of Stock']")
+    PRODUCT_STATUS_MOBILE = (By.XPATH, "//span[text()='Out of stock']")
 
     def sale_status_tab(self):
         self.wait_for_element_click(*self.SALE_STATUS_TAB)
@@ -27,3 +29,15 @@ class OffPlanPage(Page):
     def apply_out_of_stock_filter(self):
         self.click(*self.OUT_OF_STOCK_FILTER_BUTTON)
         self.wait_for_element_click()
+
+    def click_out_of_stocks_button(self):
+        self.click(*self.OUT_OF_STOCK_FILTER_BUTTON_MOBILE)
+
+    def verify_out_of_stocks_filter(self):
+        sleep(3)
+        products = self.driver.find_elements(*self.PRODUCT_STATUS_MOBILE)
+        for product in products[:317]:
+            sleep(3)
+            status = product.find_element(*self.PRODUCT_STATUS_MOBILE)
+            assert status, 'Product status not shown'
+            print(status)

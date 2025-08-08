@@ -1,3 +1,5 @@
+from time import sleep
+
 from selenium.webdriver.common.by import By
 
 
@@ -14,13 +16,16 @@ class LogInPage(Page):
 
 
     def email_address(self,address):
+        sleep(2)
         self.input_text(address,*self.EMAIL_VALUE)
 
 
     def enter_password(self,password):
+        sleep(1)
         self.input_text(password,*self.PASSWORD_VALUE)
 
 
     def continue_button(self):
+        sleep(1)
         self.click(*self.CONTINUE_BTN)
         self.driver.save_screenshot('screenshots/02_continue_button.png')

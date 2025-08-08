@@ -7,16 +7,26 @@ from selenium.webdriver.support.ui import WebDriverWait
 from pages.base_page import Page
 from app.application import Application
 from support.logger import logger
+from selenium import webdriver    ## MOBILE TESTING ##
 from selenium.webdriver.remote.remote_connection import ClientConfig ## BROWSERSTACK ###
-from requests import options ## BROWSERSTACK ###
+from requests import options ### BROWSERSTACK ###
 
 def browser_init(context, scenario_name):
     """
     :param context: Behave context
     """
-    # driver_path = ChromeDriverManager().install()
-    # service = Service(driver_path)
-    # context.driver = webdriver.Chrome(service=service)
+    driver_path = ChromeDriverManager().install()
+    service = Service(driver_path)
+    context.driver = webdriver.Chrome(service=service)
+
+    # # #  ####   MOBILE TEST   ####
+    # mobile_emulation = {
+    #     "deviceName": "Nexus 5"  # Choose a mobile device
+    # }
+    # options = webdriver.ChromeOptions()
+    # options.add_experimental_option("mobileEmulation", mobile_emulation)
+    # service = Service(ChromeDriverManager().install())
+    # context.driver = webdriver.Chrome(service=service, options=options)
 
     # ####  USING FIREFOX ####
     # context.driver = webdriver.Firefox()
